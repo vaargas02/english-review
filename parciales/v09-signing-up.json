@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-signing-up-commit-to-d",
+  "enunciado": "Which word or phrase means: “to agree to do something and stick to it”?",
+  "opciones": [
+   "to commit to",
+   "to renew",
+   "straightforward",
+   "a requirement"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**to commit to** (verb) = comprometerse a. To agree to do something and stick to it.\n\n*It is hard to **commit to** a yearly subscription when you are unsure.*"
+ },
+ {
+  "id": "v-signing-up-commit-to-g",
+  "enunciado": "Complete the sentence (the form may change): “It is hard to _____ a yearly subscription when you are unsure.”",
+  "opciones": [
+   "to commit to",
+   "to renew",
+   "straightforward",
+   "a requirement"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**to commit to** (verb) = comprometerse a. To agree to do something and stick to it.\n\n*It is hard to **commit to** a yearly subscription when you are unsure.*"
+ },
+ {
+  "id": "v-signing-up-trial-period-d",
+  "enunciado": "Which word or phrase means: “a short time when you can try something before paying fully”?",
+  "opciones": [
+   "a trial period",
+   "a requirement",
+   "a waiting list",
+   "to commit to"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**a trial period** (noun) = periodo de prueba. A short time when you can try something before paying fully.\n\n*The app offers a two-week **trial period** before you pay.*"
+ },
+ {
+  "id": "v-signing-up-trial-period-g",
+  "enunciado": "Complete the sentence (the form may change): “The app offers a two-week _____ before you pay.”",
+  "opciones": [
+   "a trial period",
+   "a requirement",
+   "a waiting list",
+   "to commit to"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**a trial period** (noun) = periodo de prueba. A short time when you can try something before paying fully.\n\n*The app offers a two-week **trial period** before you pay.*"
+ },
+ {
+  "id": "v-signing-up-straightforward-d",
+  "enunciado": "Which word or phrase means: “easy to understand or do; not complicated”?",
+  "opciones": [
+   "straightforward",
+   "flexible",
+   "to opt out",
+   "a waiting list"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**straightforward** (adjective) = sencillo / directo. Easy to understand or do; not complicated.\n\n*The registration process was very **straightforward**.*"
+ },
+ {
+  "id": "v-signing-up-straightforward-g",
+  "enunciado": "Complete the sentence (the form may change): “The registration process was very _____.”",
+  "opciones": [
+   "straightforward",
+   "flexible",
+   "to opt out",
+   "a waiting list"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**straightforward** (adjective) = sencillo / directo. Easy to understand or do; not complicated.\n\n*The registration process was very **straightforward**.*"
+ },
+ {
+  "id": "v-signing-up-opt-out-d",
+  "enunciado": "Which word or phrase means: “to choose not to continue with something you are part of”?",
+  "opciones": [
+   "to opt out",
+   "to renew",
+   "straightforward",
+   "a requirement"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**to opt out** (phrasal verb) = darse de baja / excluirse. To choose not to continue with something you are part of.\n\n*You can **opt out** of the emails at any time.*"
+ },
+ {
+  "id": "v-signing-up-opt-out-g",
+  "enunciado": "Complete the sentence (the form may change): “You can _____ of the emails at any time.”",
+  "opciones": [
+   "to opt out",
+   "to renew",
+   "straightforward",
+   "a requirement"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**to opt out** (phrasal verb) = darse de baja / excluirse. To choose not to continue with something you are part of.\n\n*You can **opt out** of the emails at any time.*"
+ },
+ {
+  "id": "v-signing-up-requirement-d",
+  "enunciado": "Which word or phrase means: “something you must have or do to join or qualify”?",
+  "opciones": [
+   "a requirement",
+   "a trial period",
+   "a waiting list",
+   "to renew"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**a requirement** (noun) = requisito. Something you must have or do to join or qualify.\n\n*One **requirement** is that you must be over eighteen.*"
+ },
+ {
+  "id": "v-signing-up-requirement-g",
+  "enunciado": "Complete the sentence (the form may change): “One _____ is that you must be over eighteen.”",
+  "opciones": [
+   "a requirement",
+   "a trial period",
+   "a waiting list",
+   "to renew"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**a requirement** (noun) = requisito. Something you must have or do to join or qualify.\n\n*One **requirement** is that you must be over eighteen.*"
+ },
+ {
+  "id": "v-signing-up-flexible-d",
+  "enunciado": "Which word or phrase means: “able to change easily to suit different situations”?",
+  "opciones": [
+   "flexible",
+   "straightforward",
+   "to commit to",
+   "to opt out"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**flexible** (adjective) = flexible. Able to change easily to suit different situations.\n\n*The monthly plan is far more **flexible** than the yearly one.*"
+ },
+ {
+  "id": "v-signing-up-flexible-g",
+  "enunciado": "Complete the sentence (the form may change): “The monthly plan is far more _____ than the yearly one.”",
+  "opciones": [
+   "flexible",
+   "straightforward",
+   "to commit to",
+   "to opt out"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**flexible** (adjective) = flexible. Able to change easily to suit different situations.\n\n*The monthly plan is far more **flexible** than the yearly one.*"
+ },
+ {
+  "id": "v-signing-up-renew-d",
+  "enunciado": "Which word or phrase means: “to extend a subscription or membership for another period”?",
+  "opciones": [
+   "to renew",
+   "to commit to",
+   "to opt out",
+   "flexible"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**to renew** (verb) = renovar. To extend a subscription or membership for another period.\n\n*I decided to **renew** my gym membership for another year.*"
+ },
+ {
+  "id": "v-signing-up-renew-g",
+  "enunciado": "Complete the sentence (the form may change): “I decided to _____ my gym membership for another year.”",
+  "opciones": [
+   "to renew",
+   "to commit to",
+   "to opt out",
+   "flexible"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**to renew** (verb) = renovar. To extend a subscription or membership for another period.\n\n*I decided to **renew** my gym membership for another year.*"
+ },
+ {
+  "id": "v-signing-up-waiting-list-d",
+  "enunciado": "Which word or phrase means: “a list of people who want to join something that is currently full”?",
+  "opciones": [
+   "a waiting list",
+   "a trial period",
+   "a requirement",
+   "straightforward"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**a waiting list** (noun) = lista de espera. A list of people who want to join something that is currently full.\n\n*The course is full, but you can join the **waiting list**.*"
+ },
+ {
+  "id": "v-signing-up-waiting-list-g",
+  "enunciado": "Complete the sentence (the form may change): “The course is full, but you can join the _____.”",
+  "opciones": [
+   "a waiting list",
+   "a trial period",
+   "a requirement",
+   "straightforward"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Signing Up for Something",
+  "teoria": "v-signing-up",
+  "explicacion": "**a waiting list** (noun) = lista de espera. A list of people who want to join something that is currently full.\n\n*The course is full, but you can join the **waiting list**.*"
+ }
+]

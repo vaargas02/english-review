@@ -1,0 +1,77 @@
+[
+ {
+  "id": "f-pres-001",
+  "enunciado": "Best way to open a short presentation:",
+  "opciones": [
+   "I'd like to start by explaining what the app does.",
+   "Firstly of all, the app.",
+   "I start with to explain the app.",
+   "Let me to start explaining the app."
+  ],
+  "correcta": 0,
+  "explicacion": "Signposting to open: I'd like to start by + -ing.",
+  "tema": "Functional language",
+  "subtema": "Presenting and handling questions",
+  "teoria": "f-presenting"
+ },
+ {
+  "id": "f-pres-002",
+  "enunciado": "Which phrase signals that you are moving to a new point?",
+  "opciones": [
+   "That brings me to…",
+   "Any questions so far?",
+   "So to sum up…",
+   "What I'd say is…"
+  ],
+  "correcta": 0,
+  "explicacion": "Moving on to… / That brings me to… introduce the next point.",
+  "tema": "Functional language",
+  "subtema": "Presenting and handling questions",
+  "teoria": "f-presenting"
+ },
+ {
+  "id": "f-pres-003",
+  "enunciado": "Someone asks a difficult question. A good way to buy time:",
+  "opciones": [
+   "That's a good point — what I'd say is…",
+   "No, you are wrong.",
+   "Next question.",
+   "I don't know nothing about that."
+  ],
+  "correcta": 0,
+  "explicacion": "Acknowledge, then answer: That's a good point… / I'm glad you asked that…",
+  "tema": "Functional language",
+  "subtema": "Presenting and handling questions",
+  "teoria": "f-presenting"
+ },
+ {
+  "id": "f-pres-004",
+  "enunciado": "How do you close a presentation?",
+  "opciones": [
+   "So to sum up, I think…",
+   "Moving on to…",
+   "I'd like to start by…",
+   "That brings me to…"
+  ],
+  "correcta": 0,
+  "explicacion": "To sum up / So, to sum up introduces the final summary.",
+  "tema": "Functional language",
+  "subtema": "Presenting and handling questions",
+  "teoria": "f-presenting"
+ },
+ {
+  "id": "f-pres-005",
+  "enunciado": "A question you hadn't considered. Natural answer:",
+  "opciones": [
+   "To be honest, I haven't really thought about that, but…",
+   "That question is not correct.",
+   "I'm not agree.",
+   "Honestly I not think so."
+  ],
+  "correcta": 0,
+  "explicacion": "Admit it politely and give a provisional answer.",
+  "tema": "Functional language",
+  "subtema": "Presenting and handling questions",
+  "teoria": "f-presenting"
+ }
+]

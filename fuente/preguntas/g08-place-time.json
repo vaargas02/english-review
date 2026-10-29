@@ -1,0 +1,212 @@
+[
+ {
+  "id": "g-pt-001",
+  "enunciado": "“I'll meet you ___ the entrance.”",
+  "opciones": [
+   "at",
+   "in",
+   "on",
+   "by"
+  ],
+  "correcta": 0,
+  "explicacion": "At = a specific point, like a pin on a map: at the door, at the bus stop.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-002",
+  "enunciado": "“The calendar is ___ the wall.”",
+  "opciones": [
+   "on",
+   "in",
+   "at",
+   "over"
+  ],
+  "correcta": 0,
+  "explicacion": "On = touching a surface.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-003",
+  "enunciado": "“The plates are ___ the cupboard.”",
+  "opciones": [
+   "in",
+   "on",
+   "at",
+   "between"
+  ],
+  "correcta": 0,
+  "explicacion": "In = inside a space with boundaries.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-004",
+  "enunciado": "“The meeting starts ___ 9 AM ___ Thursday.”",
+  "opciones": [
+   "at / on",
+   "on / at",
+   "in / on",
+   "at / in"
+  ],
+  "correcta": 0,
+  "explicacion": "At for clock times; on for days and dates.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-005",
+  "enunciado": "“We go skiing ___ winter.”",
+  "opciones": [
+   "in",
+   "on",
+   "at",
+   "during the"
+  ],
+  "correcta": 0,
+  "explicacion": "In for months, years, seasons and long periods.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-006",
+  "enunciado": "“She's lived here ___ 2015.”",
+  "opciones": [
+   "since",
+   "for",
+   "from",
+   "during"
+  ],
+  "correcta": 0,
+  "explicacion": "Since + starting point; for + length of time.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-007",
+  "enunciado": "“I've been studying English ___ two years.”",
+  "opciones": [
+   "for",
+   "since",
+   "during",
+   "by"
+  ],
+  "correcta": 0,
+  "explicacion": "For + a period of time.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-008",
+  "enunciado": "“Please finish this ___ Monday.” (no later than)",
+  "opciones": [
+   "by",
+   "until",
+   "since",
+   "on until"
+  ],
+  "correcta": 0,
+  "explicacion": "By = deadline. Until = something continues up to that time.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-009",
+  "enunciado": "“The museum is open ___ 5 PM.” (continues up to then)",
+  "opciones": [
+   "until",
+   "by",
+   "since",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "Until = up to a certain time.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-010",
+  "enunciado": "“The bank is ___ the post office and the supermarket.”",
+  "opciones": [
+   "between",
+   "among",
+   "next",
+   "along"
+  ],
+  "correcta": 0,
+  "explicacion": "Between = in the middle of two things; among = surrounded by many.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-011",
+  "enunciado": "“He found his keys ___ the papers.”",
+  "opciones": [
+   "among",
+   "between",
+   "above",
+   "over"
+  ],
+  "correcta": 0,
+  "explicacion": "Among = surrounded by many things.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-012",
+  "enunciado": "“The painting is ___ the sofa.” (higher, not touching)",
+  "opciones": [
+   "above",
+   "over",
+   "under",
+   "on"
+  ],
+  "correcta": 0,
+  "explicacion": "Above = higher than; over = directly above or covering (a bridge over the river).",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-013",
+  "enunciado": "“No phones ___ the meeting, please.”",
+  "opciones": [
+   "during",
+   "for",
+   "since",
+   "while"
+  ],
+  "correcta": 0,
+  "explicacion": "During + noun = throughout a period. While needs a clause.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ },
+ {
+  "id": "g-pt-014",
+  "enunciado": "“I usually relax ___ the weekend.” (British English)",
+  "opciones": [
+   "at",
+   "in",
+   "on the",
+   "by"
+  ],
+  "correcta": 0,
+  "explicacion": "British English: at the weekend. American English: on the weekend.",
+  "tema": "Grammar",
+  "subtema": "Prepositions of place and time",
+  "teoria": "g-place-time"
+ }
+]

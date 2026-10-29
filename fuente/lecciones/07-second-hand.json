@@ -1,0 +1,82 @@
+{
+ "n": 7,
+ "slug": "second-hand",
+ "lesson": "Buying and Selling Second-Hand",
+ "type": "Speaking",
+ "skill": "Summarising information from several sources",
+ "words": [
+  {
+   "w": "trustworthy",
+   "pos": "adjective",
+   "es": "de confianza",
+   "def": "honest and dependable; someone you can count on",
+   "ex": "Check the reviews to make sure the seller is {trustworthy} before you pay.",
+   "syn": "dependable",
+   "opp": "dodgy"
+  },
+  {
+   "w": "to overcharge",
+   "pos": "verb",
+   "es": "cobrar de más",
+   "def": "to ask too much money for something",
+   "ex": "She felt the seller had {overcharged} her for a worn coat.",
+   "syn": "to rip off",
+   "opp": "to undercharge"
+  },
+  {
+   "w": "legit",
+   "pos": "adjective",
+   "es": "legítimo / de fiar (informal)",
+   "def": "real and honest; not fake or a scam",
+   "ex": "The listing looked too good to be true, but it was completely {legit}.",
+   "syn": "authentic",
+   "opp": "fake"
+  },
+  {
+   "w": "a condition",
+   "pos": "noun",
+   "es": "estado (de conservación)",
+   "def": "the state something is in: good, fair or poor",
+   "ex": "According to the listing, the {condition} was excellent.",
+   "syn": "a state",
+   "opp": "damage"
+  },
+  {
+   "w": "to hand down",
+   "pos": "phrasal verb",
+   "es": "pasar / heredar a alguien",
+   "def": "to give something to someone else, often a younger person or the next owner",
+   "ex": "She {handed down} her old sewing machine to her neighbour.",
+   "syn": "to give away",
+   "opp": "to hold on to"
+  },
+  {
+   "w": "eco-friendly",
+   "pos": "adjective",
+   "es": "ecológico / respetuoso con el medio ambiente",
+   "def": "not harmful to the environment",
+   "ex": "Buying second-hand is one of the most {eco-friendly} choices you can make.",
+   "syn": "planet-friendly",
+   "opp": "wasteful"
+  },
+  {
+   "w": "a marketplace",
+   "pos": "noun",
+   "es": "plataforma de compraventa / mercado",
+   "def": "a website or app where people buy and sell things to each other",
+   "ex": "I listed my old camera on an online {marketplace} and sold it in a day.",
+   "syn": "a site",
+   "opp": "a physical shop"
+  },
+  {
+   "w": "to negotiate",
+   "pos": "verb",
+   "es": "negociar / regatear",
+   "def": "to talk with someone to agree on a price",
+   "ex": "Both sides needed to {negotiate} to agree a fair price.",
+   "syn": "to bargain",
+   "opp": "to accept without question"
+  }
+ ],
+ "phrases": []
+}

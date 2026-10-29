@@ -1,0 +1,77 @@
+[
+ {
+  "id": "f-comp-001",
+  "enunciado": "Most polite way to start a complaint:",
+  "opciones": [
+   "I'm afraid there seems to be a problem with our booking.",
+   "Your booking system is terrible.",
+   "You did a big mistake.",
+   "I want my money now."
+  ],
+  "correcta": 0,
+  "explicacion": "I'm afraid / I'm sorry, but / There seems to be… soften the complaint.",
+  "tema": "Functional language",
+  "subtema": "Making a polite complaint",
+  "teoria": "f-complaining"
+ },
+ {
+  "id": "f-comp-002",
+  "enunciado": "“We ___ for over an hour and nobody has contacted us.”",
+  "opciones": [
+   "'ve been waiting",
+   "are waiting",
+   "waited since",
+   "wait"
+  ],
+  "correcta": 0,
+  "explicacion": "Present perfect (continuous) shows the history of the problem up to now.",
+  "tema": "Functional language",
+  "subtema": "Making a polite complaint",
+  "teoria": "f-complaining"
+ },
+ {
+  "id": "f-comp-003",
+  "enunciado": "“The boiler ___ working twice this week.”",
+  "opciones": [
+   "has stopped",
+   "stops",
+   "is stopping",
+   "stop"
+  ],
+  "correcta": 0,
+  "explicacion": "Present perfect for problems that have happened in a period that includes now.",
+  "tema": "Functional language",
+  "subtema": "Making a polite complaint",
+  "teoria": "f-complaining"
+ },
+ {
+  "id": "f-comp-004",
+  "enunciado": "Polite way to say what you want:",
+  "opciones": [
+   "I'd like someone to resolve this as soon as possible.",
+   "Resolve this now.",
+   "You must to fix it.",
+   "I want that you fix it."
+  ],
+  "correcta": 0,
+  "explicacion": "I'd like (someone) to… / Could you possibly…?",
+  "tema": "Functional language",
+  "subtema": "Making a polite complaint",
+  "teoria": "f-complaining"
+ },
+ {
+  "id": "f-comp-005",
+  "enunciado": "Which argument strengthens a complaint about a new fridge?",
+  "opciones": [
+   "It's still under guarantee.",
+   "It's a nice colour.",
+   "I bought it online.",
+   "My neighbour has one too."
+  ],
+  "correcta": 0,
+  "explicacion": "Mention the guarantee or the inconvenience if it helps your case.",
+  "tema": "Functional language",
+  "subtema": "Making a polite complaint",
+  "teoria": "f-complaining"
+ }
+]

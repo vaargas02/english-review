@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-house-defect-d",
+  "enunciado": "Which word or phrase means: “a flaw that stops something working properly”?",
+  "opciones": [
+   "a defect",
+   "an engineer",
+   "an inconvenience",
+   "a guarantee"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**a defect** (noun) = defecto. A flaw that stops something working properly.\n\n*The engineer found a **defect** in the boiler that was causing the heating to fail.*"
+ },
+ {
+  "id": "v-house-defect-g",
+  "enunciado": "Complete the sentence (the form may change): “The engineer found a _____ in the boiler that was causing the heating to fail.”",
+  "opciones": [
+   "a defect",
+   "an engineer",
+   "an inconvenience",
+   "a guarantee"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**a defect** (noun) = defecto. A flaw that stops something working properly.\n\n*The engineer found a **defect** in the boiler that was causing the heating to fail.*"
+ },
+ {
+  "id": "v-house-guarantee-d",
+  "enunciado": "Which word or phrase means: “a seller's promise that a product will work for a certain period”?",
+  "opciones": [
+   "a guarantee",
+   "a defect",
+   "an inconvenience",
+   "an engineer"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**a guarantee** (noun) = garantía. A seller's promise that a product will work for a certain period.\n\n*The fridge is still under **guarantee**, so the repair should be free.*"
+ },
+ {
+  "id": "v-house-guarantee-g",
+  "enunciado": "Complete the sentence (the form may change): “The fridge is still under _____, so the repair should be free.”",
+  "opciones": [
+   "a guarantee",
+   "a defect",
+   "an inconvenience",
+   "an engineer"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**a guarantee** (noun) = garantía. A seller's promise that a product will work for a certain period.\n\n*The fridge is still under **guarantee**, so the repair should be free.*"
+ },
+ {
+  "id": "v-house-engineer-d",
+  "enunciado": "Which word or phrase means: “a person who comes to fix or install equipment in your home”?",
+  "opciones": [
+   "an engineer",
+   "a defect",
+   "a guarantee",
+   "an inconvenience"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**an engineer** (noun) = técnico/a. A person who comes to fix or install equipment in your home.\n\n*The **engineer** came on Tuesday to look at the boiler.*"
+ },
+ {
+  "id": "v-house-engineer-g",
+  "enunciado": "Complete the sentence (the form may change): “The _____ came on Tuesday to look at the boiler.”",
+  "opciones": [
+   "an engineer",
+   "a defect",
+   "a guarantee",
+   "an inconvenience"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**an engineer** (noun) = técnico/a. A person who comes to fix or install equipment in your home.\n\n*The **engineer** came on Tuesday to look at the boiler.*"
+ },
+ {
+  "id": "v-house-inconvenience-d",
+  "enunciado": "Which word or phrase means: “a situation that causes difficulty or annoyance”?",
+  "opciones": [
+   "an inconvenience",
+   "a guarantee",
+   "a defect",
+   "an engineer"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**an inconvenience** (noun) = molestia / inconveniente. A situation that causes difficulty or annoyance.\n\n*Having no hot water for two days has been a real **inconvenience**.*"
+ },
+ {
+  "id": "v-house-inconvenience-g",
+  "enunciado": "Complete the sentence (the form may change): “Having no hot water for two days has been a real _____.”",
+  "opciones": [
+   "an inconvenience",
+   "a guarantee",
+   "a defect",
+   "an engineer"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**an inconvenience** (noun) = molestia / inconveniente. A situation that causes difficulty or annoyance.\n\n*Having no hot water for two days has been a real **inconvenience**.*"
+ },
+ {
+  "id": "v-house-install-d",
+  "enunciado": "Which word or phrase means: “to put equipment in place so it is ready to use”?",
+  "opciones": [
+   "to install",
+   "to fix",
+   "defective",
+   "an engineer"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**to install** (verb) = instalar. To put equipment in place so it is ready to use.\n\n*They **installed** the new oven last week, but it still doesn't work properly.*"
+ },
+ {
+  "id": "v-house-install-g",
+  "enunciado": "Complete the sentence (the form may change): “They _____ the new oven last week, but it still doesn't work properly.”",
+  "opciones": [
+   "to install",
+   "to fix",
+   "defective",
+   "an engineer"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**to install** (verb) = instalar. To put equipment in place so it is ready to use.\n\n*They **installed** the new oven last week, but it still doesn't work properly.*"
+ },
+ {
+  "id": "v-house-fix-d",
+  "enunciado": "Which word or phrase means: “to repair something that is broken or not working”?",
+  "opciones": [
+   "to fix",
+   "to install",
+   "an inconvenience",
+   "persistent"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**to fix** (verb) = arreglar / reparar. To repair something that is broken or not working.\n\n*The plumber came quickly to **fix** the leaking pipe.*"
+ },
+ {
+  "id": "v-house-fix-g",
+  "enunciado": "Complete the sentence (the form may change): “The plumber came quickly to _____ the leaking pipe.”",
+  "opciones": [
+   "to fix",
+   "to install",
+   "an inconvenience",
+   "persistent"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**to fix** (verb) = arreglar / reparar. To repair something that is broken or not working.\n\n*The plumber came quickly to **fix** the leaking pipe.*"
+ },
+ {
+  "id": "v-house-defective-d",
+  "enunciado": "Which word or phrase means: “not working properly because of a problem in how it was made”?",
+  "opciones": [
+   "defective",
+   "persistent",
+   "an engineer",
+   "a defect"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**defective** (adjective) = defectuoso. Not working properly because of a problem in how it was made.\n\n*The tap was **defective** when it arrived: it leaked from day one.*"
+ },
+ {
+  "id": "v-house-defective-g",
+  "enunciado": "Complete the sentence (the form may change): “The tap was _____ when it arrived: it leaked from day one.”",
+  "opciones": [
+   "defective",
+   "persistent",
+   "an engineer",
+   "a defect"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**defective** (adjective) = defectuoso. Not working properly because of a problem in how it was made.\n\n*The tap was **defective** when it arrived: it leaked from day one.*"
+ },
+ {
+  "id": "v-house-persistent-d",
+  "enunciado": "Which word or phrase means: “continuing for a long time, longer than expected or wanted”?",
+  "opciones": [
+   "persistent",
+   "defective",
+   "to install",
+   "a defect"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**persistent** (adjective) = persistente. Continuing for a long time, longer than expected or wanted.\n\n*The **persistent** smell of damp suggested there might be a leak behind the wall.*"
+ },
+ {
+  "id": "v-house-persistent-g",
+  "enunciado": "Complete the sentence (the form may change): “The _____ smell of damp suggested there might be a leak behind the wall.”",
+  "opciones": [
+   "persistent",
+   "defective",
+   "to install",
+   "a defect"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Things Around the House",
+  "teoria": "v-house",
+  "explicacion": "**persistent** (adjective) = persistente. Continuing for a long time, longer than expected or wanted.\n\n*The **persistent** smell of damp suggested there might be a leak behind the wall.*"
+ }
+]

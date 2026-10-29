@@ -1,0 +1,182 @@
+[
+ {
+  "id": "g-ger-001",
+  "enunciado": "“I enjoy ___ local food.”",
+  "opciones": [
+   "trying",
+   "to try",
+   "try",
+   "tried"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I enjoy trying local food.*\n\nEnjoy is always followed by -ing. Others like it: avoid, finish, mind, miss, suggest, keep.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-002",
+  "enunciado": "“They plan ___ Rome next spring.”",
+  "opciones": [
+   "to visit",
+   "visiting",
+   "visit",
+   "visited"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *They plan to visit Rome next spring.*\n\nPlan takes the infinitive. Same for agree, decide, expect, hope, intend, promise, refuse, want.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-003",
+  "enunciado": "“I'm looking forward to ___ Japan.”",
+  "opciones": [
+   "visiting",
+   "visit",
+   "to visit",
+   "visited"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I'm looking forward to visiting Japan.*\n\nIn look forward to, to is a preposition, and prepositions are followed by -ing.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-004",
+  "enunciado": "“___ is my favourite hobby.”",
+  "opciones": [
+   "Travelling",
+   "To travelling",
+   "Travel to",
+   "Travelled"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *Travelling is my favourite hobby.*\n\nA gerund can be the subject of a sentence.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-005",
+  "enunciado": "“We went to the market ___ food for the trip.”",
+  "opciones": [
+   "to buy",
+   "for buying",
+   "buying",
+   "for buy"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *We went to the market to buy food for the trip.*\n\nPurpose = to + infinitive (para comprar). Not for + -ing.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-006",
+  "enunciado": "“He spent hours ___ the city.”",
+  "opciones": [
+   "exploring",
+   "to explore",
+   "explore",
+   "explored"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *He spent hours exploring the city.*\n\nSpend / waste + time or money + -ing.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-007",
+  "enunciado": "“He told me ___ my bags early.”",
+  "opciones": [
+   "to pack",
+   "packing",
+   "pack",
+   "that pack"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *He told me to pack my bags early.*\n\nVerb + person + infinitive: tell, ask, advise, encourage, want.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-008",
+  "enunciado": "“It's exciting ___ a trip.”",
+  "opciones": [
+   "to plan",
+   "planning",
+   "plan",
+   "for plan"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *It's exciting to plan a trip.*\n\nAfter adjectives (exciting, easy, difficult, important, nice) we use to + infinitive.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-009",
+  "enunciado": "“I stopped ___ the view.” (I paused my walk in order to look)",
+  "opciones": [
+   "to admire",
+   "admiring",
+   "admire",
+   "admired"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I stopped to admire the view.*\n\nStop + to = stop in order to do something. Stop + -ing = no longer do it.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-010",
+  "enunciado": "“She finally stopped ___.” (she quit the habit)",
+  "opciones": [
+   "smoking",
+   "to smoke",
+   "smoke",
+   "to smoking"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *She finally stopped smoking.*\n\nStop + -ing = finish an activity or habit.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-011",
+  "enunciado": "“Do you fancy ___ out tonight?”",
+  "opciones": [
+   "going",
+   "to go",
+   "go",
+   "to going"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *Do you fancy going out tonight?*\n\nFancy (= feel like) takes -ing.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-012",
+  "enunciado": "“She refused ___ the contract.”",
+  "opciones": [
+   "to sign",
+   "signing",
+   "sign",
+   "to signing"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *She refused to sign the contract.*\n\nRefuse is followed by the infinitive.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ }
+]

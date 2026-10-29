@@ -1,0 +1,47 @@
+[
+ {
+  "id": "f-much-001",
+  "enunciado": "“Do you like their new album?” — Strong no:",
+  "opciones": [
+   "Not at all!",
+   "At all not!",
+   "Not in all.",
+   "No at all."
+  ],
+  "correcta": 0,
+  "explicacion": "Not at all = zero, a strong no.",
+  "tema": "Functional language",
+  "subtema": "Saying how much you like something",
+  "teoria": "f-how-much"
+ },
+ {
+  "id": "f-much-002",
+  "enunciado": "“I like their old style ___ than the new one.”",
+  "opciones": [
+   "a lot more",
+   "a lot of more",
+   "more a lot",
+   "very more"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I like their old style a lot more than the new one.*\n\nA lot more than… intensifies a comparison.",
+  "tema": "Functional language",
+  "subtema": "Saying how much you like something",
+  "teoria": "f-how-much"
+ },
+ {
+  "id": "f-much-003",
+  "enunciado": "“Do you listen to music when you work?” — “It ___ on the day.”",
+  "opciones": [
+   "depends",
+   "depend",
+   "is depending of",
+   "depends of"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *It depends on the day.*\n\nIt depends on + noun. Never depends of.",
+  "tema": "Functional language",
+  "subtema": "Saying how much you like something",
+  "teoria": "f-how-much"
+ }
+]

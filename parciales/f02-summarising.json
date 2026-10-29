@@ -1,0 +1,92 @@
+[
+ {
+  "id": "f-sum-001",
+  "enunciado": "Which phrase names the source of information?",
+  "opciones": [
+   "According to the leaflet,…",
+   "So basically,…",
+   "In short,…",
+   "Overall,…"
+  ],
+  "correcta": 0,
+  "explicacion": "According to / Apparently introduce the source. So basically / Overall / In short sum up.",
+  "tema": "Functional language",
+  "subtema": "Summarising and reporting",
+  "teoria": "f-summarising"
+ },
+ {
+  "id": "f-sum-002",
+  "enunciado": "Report: “The tablets ease the pain within an hour.”",
+  "opciones": [
+   "She said that the tablets eased the pain within an hour.",
+   "She said me that the tablets ease the pain.",
+   "She told that the tablets eased the pain.",
+   "She said to the tablets eased the pain."
+  ],
+  "correcta": 0,
+  "explicacion": "Say (that) + clause, usually one tense back. Tell needs a person: She told me that…",
+  "tema": "Functional language",
+  "subtema": "Summarising and reporting",
+  "teoria": "f-summarising"
+ },
+ {
+  "id": "f-sum-003",
+  "enunciado": "“I'll send a follow-up email.” → She said she ___ a follow-up email.",
+  "opciones": [
+   "would send",
+   "will sent",
+   "sends",
+   "has send"
+  ],
+  "correcta": 0,
+  "explicacion": "Will becomes would in reported speech.",
+  "tema": "Functional language",
+  "subtema": "Summarising and reporting",
+  "teoria": "f-summarising"
+ },
+ {
+  "id": "f-sum-004",
+  "enunciado": "Which word reports something you heard, without naming the source?",
+  "opciones": [
+   "Apparently",
+   "Overall",
+   "Firstly",
+   "Whereas"
+  ],
+  "correcta": 0,
+  "explicacion": "Apparently, the delivery was delayed (I heard this from someone).",
+  "tema": "Functional language",
+  "subtema": "Summarising and reporting",
+  "teoria": "f-summarising"
+ },
+ {
+  "id": "f-sum-005",
+  "enunciado": "Which phrase gives your final conclusion?",
+  "opciones": [
+   "So basically, it sounds like the easier option.",
+   "According to the caller, …",
+   "She said that …",
+   "Did they say when exactly?"
+  ],
+  "correcta": 0,
+  "explicacion": "So basically / Overall / In short give the main point at the end.",
+  "tema": "Functional language",
+  "subtema": "Summarising and reporting",
+  "teoria": "f-summarising"
+ },
+ {
+  "id": "f-sum-006",
+  "enunciado": "“Did they say when exactly?” is used to…",
+  "opciones": [
+   "ask for clarification",
+   "close the summary",
+   "name the source",
+   "disagree politely"
+  ],
+  "correcta": 0,
+  "explicacion": "Clarifying questions check details: Did they say when exactly? Was it confirmed?",
+  "tema": "Functional language",
+  "subtema": "Summarising and reporting",
+  "teoria": "f-summarising"
+ }
+]

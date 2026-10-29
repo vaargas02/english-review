@@ -1,0 +1,82 @@
+{
+ "n": 12,
+ "slug": "housework",
+ "lesson": "Housework and Chores",
+ "type": "Speaking",
+ "skill": "Arguing a point clearly",
+ "words": [
+  {
+   "w": "to tackle",
+   "pos": "verb",
+   "es": "abordar / ponerse con",
+   "def": "to deal with a difficult or unpleasant task directly",
+   "ex": "I always {tackle} the bathroom first to get it out of the way.",
+   "syn": "to take on",
+   "opp": "to avoid"
+  },
+  {
+   "w": "overdue",
+   "pos": "adjective",
+   "es": "atrasado / pendiente",
+   "def": "not done when it should have been",
+   "ex": "The hoovering is well {overdue}: I haven't done it in two weeks.",
+   "syn": "behind schedule",
+   "opp": "up to date"
+  },
+  {
+   "w": "to split",
+   "pos": "verb",
+   "es": "repartir / dividir",
+   "def": "to divide something between two or more people",
+   "ex": "We {split} the chores between us so it feels fair.",
+   "syn": "to share",
+   "opp": "to take on alone"
+  },
+  {
+   "w": "aggrieved",
+   "pos": "adjective",
+   "es": "agraviado / ofendido",
+   "def": "feeling treated unfairly and upset about it",
+   "ex": "She felt {aggrieved} that she was always the one cleaning the bathroom.",
+   "syn": "indignant",
+   "opp": "content"
+  },
+  {
+   "w": "reliably",
+   "pos": "adverb",
+   "es": "de forma fiable / sin falta",
+   "def": "in a way that can be depended on every time",
+   "ex": "He {reliably} empties the bins every Sunday without being asked.",
+   "syn": "dependably",
+   "opp": "erratically"
+  },
+  {
+   "w": "a household task",
+   "pos": "noun",
+   "es": "tarea doméstica",
+   "def": "any job needed to keep a home clean and running",
+   "ex": "Taking out the bin is a simple {household task}, but everyone hates it.",
+   "syn": "a chore",
+   "opp": "a leisure activity"
+  },
+  {
+   "w": "to fall behind",
+   "pos": "phrasal verb",
+   "es": "atrasarse / quedarse atrás",
+   "def": "to fail to keep up with something that needs doing regularly",
+   "ex": "When I'm busy at work, I always {fall behind} with the cleaning.",
+   "syn": "to get behind",
+   "opp": "to keep up"
+  },
+  {
+   "w": "manageable",
+   "pos": "adjective",
+   "es": "llevadero / asumible",
+   "def": "not too difficult to deal with",
+   "ex": "If you clean a little each day, it stays {manageable}.",
+   "syn": "doable",
+   "opp": "overwhelming"
+  }
+ ],
+ "phrases": []
+}

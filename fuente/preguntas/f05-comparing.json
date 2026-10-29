@@ -1,0 +1,77 @@
+[
+ {
+  "id": "f-cmp-001",
+  "enunciado": "“___ the yearly plan is cheaper, the monthly plan is more flexible.”",
+  "opciones": [
+   "Whereas",
+   "Because",
+   "Unless",
+   "Despite"
+  ],
+  "correcta": 0,
+  "explicacion": "Whereas contrasts two facts in one sentence. On the other hand works between sentences.",
+  "tema": "Functional language",
+  "subtema": "Comparing options and instructions",
+  "teoria": "f-comparing"
+ },
+ {
+  "id": "f-cmp-002",
+  "enunciado": "“The monthly plan is ___ than the yearly one.”",
+  "opciones": [
+   "more flexible",
+   "flexibler",
+   "most flexible",
+   "more flexibler"
+  ],
+  "correcta": 0,
+  "explicacion": "Long adjectives form the comparative with more.",
+  "tema": "Functional language",
+  "subtema": "Comparing options and instructions",
+  "teoria": "f-comparing"
+ },
+ {
+  "id": "f-cmp-003",
+  "enunciado": "“It's ___ option of all four.”",
+  "opciones": [
+   "the easiest",
+   "the most easy",
+   "easier",
+   "the more easy"
+  ],
+  "correcta": 0,
+  "explicacion": "Short adjectives ending in -y: easy → the easiest.",
+  "tema": "Functional language",
+  "subtema": "Comparing options and instructions",
+  "teoria": "f-comparing"
+ },
+ {
+  "id": "f-cmp-004",
+  "enunciado": "Correct order of sequencers:",
+  "opciones": [
+   "First… Then… Finally…",
+   "Finally… First… Then…",
+   "Then… Finally… First…",
+   "Lastly… Firstly… Then…"
+  ],
+  "correcta": 0,
+  "explicacion": "First, go to… Then, enter… Finally, confirm…",
+  "tema": "Functional language",
+  "subtema": "Comparing options and instructions",
+  "teoria": "f-comparing"
+ },
+ {
+  "id": "f-cmp-005",
+  "enunciado": "Recommend clearly:",
+  "opciones": [
+   "I'd suggest the app because it's the most straightforward.",
+   "I suggest you to take the app.",
+   "I'd suggest to take the app.",
+   "I'm suggesting that take the app."
+  ],
+  "correcta": 0,
+  "explicacion": "I'd suggest + noun / -ing / (that) + clause. Never suggest + person + to.",
+  "tema": "Functional language",
+  "subtema": "Comparing options and instructions",
+  "teoria": "f-comparing"
+ }
+]

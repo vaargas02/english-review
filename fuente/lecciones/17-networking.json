@@ -1,0 +1,66 @@
+{
+ "n": 17,
+ "slug": "networking",
+ "lesson": "Networking",
+ "type": "Speaking",
+ "skill": "Planning and justifying decisions",
+ "words": [
+  {
+   "w": "a first impression",
+   "pos": "noun",
+   "es": "primera impresión",
+   "def": "the opinion someone forms of you the moment they meet you",
+   "ex": "She made a great {first impression} at the conference."
+  },
+  {
+   "w": "to follow up",
+   "pos": "phrasal verb",
+   "es": "hacer seguimiento / volver a contactar",
+   "def": "to contact someone again after a first meeting",
+   "ex": "He sent an email to {follow up} after the event."
+  },
+  {
+   "w": "sincere",
+   "pos": "adjective",
+   "es": "sincero",
+   "def": "truly meaning what you say, without pretending",
+   "ex": "A {sincere} compliment builds far more trust than an empty one."
+  },
+  {
+   "w": "to keep in touch",
+   "pos": "collocation",
+   "es": "mantener el contacto",
+   "def": "to stay in regular contact with someone",
+   "ex": "We met at a conference and have {kept in touch} ever since."
+  },
+  {
+   "w": "small talk",
+   "pos": "noun",
+   "es": "charla trivial / conversación de cortesía",
+   "def": "light, friendly conversation about everyday topics",
+   "ex": "Good {small talk} is an important skill at networking events."
+  },
+  {
+   "w": "to diversify",
+   "pos": "verb",
+   "es": "diversificar",
+   "def": "to expand into new areas or groups beyond your usual circle",
+   "ex": "Cross-industry events helped her {diversify} her professional network."
+  },
+  {
+   "w": "an opportunity",
+   "pos": "noun",
+   "es": "oportunidad",
+   "def": "a chance to do something useful or beneficial",
+   "ex": "Networking can open up great career {opportunities}."
+  },
+  {
+   "w": "proactively",
+   "pos": "adverb",
+   "es": "de forma proactiva",
+   "def": "by taking action before something is needed, rather than waiting",
+   "ex": "She {proactively} reached out to people in her field."
+  }
+ ],
+ "phrases": []
+}

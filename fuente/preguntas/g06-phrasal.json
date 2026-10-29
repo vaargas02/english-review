@@ -1,0 +1,212 @@
+[
+ {
+  "id": "g-phr-001",
+  "enunciado": "“I ___ these old photos when I was tidying the closet.” (found by chance)",
+  "opciones": [
+   "came across",
+   "came over",
+   "brought up",
+   "ended up"
+  ],
+  "correcta": 0,
+  "explicacion": "Come across = find or meet unexpectedly.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-002",
+  "enunciado": "“Our car ___ in the snowstorm.” (stopped working)",
+  "opciones": [
+   "broke down",
+   "brought down",
+   "calmed down",
+   "dropped off"
+  ],
+  "correcta": 0,
+  "explicacion": "Break down = stop working (machines). It also means start crying (people).",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-003",
+  "enunciado": "“This sad music is ___ me ___.”",
+  "opciones": [
+   "bringing / down",
+   "breaking / down",
+   "calling / back",
+   "dropping / off"
+  ],
+  "correcta": 0,
+  "explicacion": "Bring someone down = make someone sad.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-004",
+  "enunciado": "“My father always ___ sports at dinner.” (starts talking about)",
+  "opciones": [
+   "brings up",
+   "comes across",
+   "counts on",
+   "ends up"
+  ],
+  "correcta": 0,
+  "explicacion": "Bring something up = introduce a topic.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-005",
+  "enunciado": "“You can always ___ Michael in a crisis.”",
+  "opciones": [
+   "count on",
+   "come across",
+   "call back",
+   "drop off"
+  ],
+  "correcta": 0,
+  "explicacion": "Count on = rely on, trust.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-006",
+  "enunciado": "“It's a fancy restaurant, so we have to ___.”",
+  "opciones": [
+   "dress up",
+   "end up",
+   "calm down",
+   "fit in"
+  ],
+  "correcta": 0,
+  "explicacion": "Dress up = wear elegant clothes.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-007",
+  "enunciado": "“I have to ___ my sister ___ at work.” (take her there by car)",
+  "opciones": [
+   "drop / off",
+   "bring / up",
+   "ask / out",
+   "call / back"
+  ],
+  "correcta": 0,
+  "explicacion": "Drop someone off = leave them somewhere, usually by car. The pronoun goes in the middle: drop her off.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-008",
+  "enunciado": "“We ___ renting a movie instead of going out.” (not planned)",
+  "opciones": [
+   "ended up",
+   "came across",
+   "dressed up",
+   "came over"
+  ],
+  "correcta": 0,
+  "explicacion": "End up = finally be in a situation you didn't plan.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-009",
+  "enunciado": "“Brian ___ Judy ___ to dinner.” (invited her on a date)",
+  "opciones": [
+   "asked / out",
+   "turned / down",
+   "brought / up",
+   "dropped / off"
+  ],
+  "correcta": 0,
+  "explicacion": "Ask someone out = invite someone on a date.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-010",
+  "enunciado": "“Tom invited Sue to dinner, but she ___ him ___.” (refused)",
+  "opciones": [
+   "turned / down",
+   "asked / out",
+   "brought / down",
+   "called / back"
+  ],
+  "correcta": 0,
+  "explicacion": "Turn down = refuse an invitation or offer.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-011",
+  "enunciado": "“She fainted, but ___ about five minutes later.”",
+  "opciones": [
+   "came to",
+   "came over",
+   "came across",
+   "came in"
+  ],
+  "correcta": 0,
+  "explicacion": "Come to = regain consciousness.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-012",
+  "enunciado": "“Would you like to ___ next Thursday?” (visit my house)",
+  "opciones": [
+   "come over",
+   "come across",
+   "pass by",
+   "get in"
+  ],
+  "correcta": 0,
+  "explicacion": "Come over = visit someone's home. Pass by = go past a place.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-013",
+  "enunciado": "“Maria has never ___ with the crowd.” (felt she belonged)",
+  "opciones": [
+   "fitted in",
+   "fitted on",
+   "put on",
+   "got in"
+  ],
+  "correcta": 0,
+  "explicacion": "Fit in = belong to a group. Put on = wear; get in = arrive home.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ },
+ {
+  "id": "g-phr-014",
+  "enunciado": "What makes a phrasal verb different from a verb + preposition?",
+  "opciones": [
+   "It gets a new meaning",
+   "The preposition is optional",
+   "It is only used in writing",
+   "It never takes an object"
+  ],
+  "correcta": 0,
+  "explicacion": "In verb + preposition (wait for) the meaning stays the same as the verb. In a phrasal verb (break down) the particle creates a new meaning.",
+  "tema": "Grammar",
+  "subtema": "Phrasal verbs",
+  "teoria": "g-phrasal"
+ }
+]

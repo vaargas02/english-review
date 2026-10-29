@@ -1,0 +1,66 @@
+{
+ "n": 9,
+ "slug": "signing-up",
+ "lesson": "Signing Up for Something",
+ "type": "Speaking",
+ "skill": "Comparing options and giving instructions",
+ "words": [
+  {
+   "w": "to commit to",
+   "pos": "verb",
+   "es": "comprometerse a",
+   "def": "to agree to do something and stick to it",
+   "ex": "It is hard to {commit to} a yearly subscription when you are unsure."
+  },
+  {
+   "w": "a trial period",
+   "pos": "noun",
+   "es": "periodo de prueba",
+   "def": "a short time when you can try something before paying fully",
+   "ex": "The app offers a two-week {trial period} before you pay."
+  },
+  {
+   "w": "straightforward",
+   "pos": "adjective",
+   "es": "sencillo / directo",
+   "def": "easy to understand or do; not complicated",
+   "ex": "The registration process was very {straightforward}."
+  },
+  {
+   "w": "to opt out",
+   "pos": "phrasal verb",
+   "es": "darse de baja / excluirse",
+   "def": "to choose not to continue with something you are part of",
+   "ex": "You can {opt out} of the emails at any time."
+  },
+  {
+   "w": "a requirement",
+   "pos": "noun",
+   "es": "requisito",
+   "def": "something you must have or do to join or qualify",
+   "ex": "One {requirement} is that you must be over eighteen."
+  },
+  {
+   "w": "flexible",
+   "pos": "adjective",
+   "es": "flexible",
+   "def": "able to change easily to suit different situations",
+   "ex": "The monthly plan is far more {flexible} than the yearly one."
+  },
+  {
+   "w": "to renew",
+   "pos": "verb",
+   "es": "renovar",
+   "def": "to extend a subscription or membership for another period",
+   "ex": "I decided to {renew} my gym membership for another year."
+  },
+  {
+   "w": "a waiting list",
+   "pos": "noun",
+   "es": "lista de espera",
+   "def": "a list of people who want to join something that is currently full",
+   "ex": "The course is full, but you can join the {waiting list}."
+  }
+ ],
+ "phrases": []
+}

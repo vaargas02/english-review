@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-travel-itinerary-d",
+  "enunciado": "Which word or phrase means: “a planned route or journey”?",
+  "opciones": [
+   "itinerary",
+   "hostel",
+   "cuisine",
+   "souvenir"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**itinerary** (noun) = itinerario. A planned route or journey.\n\n*We had a detailed **itinerary** for our trip, covering all the major attractions.*"
+ },
+ {
+  "id": "v-travel-itinerary-g",
+  "enunciado": "Complete the sentence (the form may change): “We had a detailed _____ for our trip, covering all the major attractions.”",
+  "opciones": [
+   "itinerary",
+   "hostel",
+   "cuisine",
+   "souvenir"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**itinerary** (noun) = itinerario. A planned route or journey.\n\n*We had a detailed **itinerary** for our trip, covering all the major attractions.*"
+ },
+ {
+  "id": "v-travel-backpacking-d",
+  "enunciado": "Which word or phrase means: “travelling or hiking with your belongings in a backpack, often on a low budget”?",
+  "opciones": [
+   "backpacking",
+   "cuisine",
+   "itinerary",
+   "excursion"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**backpacking** (noun) = viajar de mochilero. Travelling or hiking with your belongings in a backpack, often on a low budget.\n\n*He went **backpacking** across Europe last summer on a limited budget.*"
+ },
+ {
+  "id": "v-travel-backpacking-g",
+  "enunciado": "Complete the sentence (the form may change): “He went _____ across Europe last summer on a limited budget.”",
+  "opciones": [
+   "backpacking",
+   "cuisine",
+   "itinerary",
+   "excursion"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**backpacking** (noun) = viajar de mochilero. Travelling or hiking with your belongings in a backpack, often on a low budget.\n\n*He went **backpacking** across Europe last summer on a limited budget.*"
+ },
+ {
+  "id": "v-travel-excursion-d",
+  "enunciado": "Which word or phrase means: “a short trip, especially one taken for pleasure”?",
+  "opciones": [
+   "excursion",
+   "backpacking",
+   "cuisine",
+   "souvenir"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**excursion** (noun) = excursión. A short trip, especially one taken for pleasure.\n\n*Our cruise package includes several **excursions** to nearby islands.*"
+ },
+ {
+  "id": "v-travel-excursion-g",
+  "enunciado": "Complete the sentence (the form may change): “Our cruise package includes several _____ to nearby islands.”",
+  "opciones": [
+   "excursion",
+   "backpacking",
+   "cuisine",
+   "souvenir"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**excursion** (noun) = excursión. A short trip, especially one taken for pleasure.\n\n*Our cruise package includes several **excursions** to nearby islands.*"
+ },
+ {
+  "id": "v-travel-landmark-d",
+  "enunciado": "Which word or phrase means: “a building or feature that is easily seen and recognised and helps you know where you are”?",
+  "opciones": [
+   "landmark",
+   "tourist",
+   "excursion",
+   "hostel"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**landmark** (noun) = lugar emblemático / punto de referencia. A building or feature that is easily seen and recognised and helps you know where you are.\n\n*The Eiffel Tower is an iconic **landmark** in Paris.*"
+ },
+ {
+  "id": "v-travel-landmark-g",
+  "enunciado": "Complete the sentence (the form may change): “The Eiffel Tower is an iconic _____ in Paris.”",
+  "opciones": [
+   "landmark",
+   "tourist",
+   "excursion",
+   "hostel"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**landmark** (noun) = lugar emblemático / punto de referencia. A building or feature that is easily seen and recognised and helps you know where you are.\n\n*The Eiffel Tower is an iconic **landmark** in Paris.*"
+ },
+ {
+  "id": "v-travel-souvenir-d",
+  "enunciado": "Which word or phrase means: “a thing you keep as a reminder of a place or event”?",
+  "opciones": [
+   "souvenir",
+   "excursion",
+   "cuisine",
+   "backpacking"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**souvenir** (noun) = recuerdo (objeto). A thing you keep as a reminder of a place or event.\n\n*I bought a small statue as a **souvenir** from my trip to Egypt.*"
+ },
+ {
+  "id": "v-travel-souvenir-g",
+  "enunciado": "Complete the sentence (the form may change): “I bought a small statue as a _____ from my trip to Egypt.”",
+  "opciones": [
+   "souvenir",
+   "excursion",
+   "cuisine",
+   "backpacking"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**souvenir** (noun) = recuerdo (objeto). A thing you keep as a reminder of a place or event.\n\n*I bought a small statue as a **souvenir** from my trip to Egypt.*"
+ },
+ {
+  "id": "v-travel-tourist-d",
+  "enunciado": "Which word or phrase means: “a person who is travelling or visiting a place for pleasure”?",
+  "opciones": [
+   "tourist",
+   "landmark",
+   "souvenir",
+   "itinerary"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**tourist** (noun) = turista. A person who is travelling or visiting a place for pleasure.\n\n*The city is crowded with **tourists** during the summer season.*"
+ },
+ {
+  "id": "v-travel-tourist-g",
+  "enunciado": "Complete the sentence (the form may change): “The city is crowded with _____ during the summer season.”",
+  "opciones": [
+   "tourist",
+   "landmark",
+   "souvenir",
+   "itinerary"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**tourist** (noun) = turista. A person who is travelling or visiting a place for pleasure.\n\n*The city is crowded with **tourists** during the summer season.*"
+ },
+ {
+  "id": "v-travel-cuisine-d",
+  "enunciado": "Which word or phrase means: “a style of cooking typical of a country or region”?",
+  "opciones": [
+   "cuisine",
+   "hostel",
+   "souvenir",
+   "landmark"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**cuisine** (noun) = cocina (gastronomía). A style of cooking typical of a country or region.\n\n*Italian **cuisine** is famous for its fresh ingredients and bold flavours.*"
+ },
+ {
+  "id": "v-travel-cuisine-g",
+  "enunciado": "Complete the sentence (the form may change): “Italian _____ is famous for its fresh ingredients and bold flavours.”",
+  "opciones": [
+   "cuisine",
+   "hostel",
+   "souvenir",
+   "landmark"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**cuisine** (noun) = cocina (gastronomía). A style of cooking typical of a country or region.\n\n*Italian **cuisine** is famous for its fresh ingredients and bold flavours.*"
+ },
+ {
+  "id": "v-travel-hostel-d",
+  "enunciado": "Which word or phrase means: “a cheap place to stay, often used by young people travelling on a budget”?",
+  "opciones": [
+   "hostel",
+   "excursion",
+   "tourist",
+   "backpacking"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**hostel** (noun) = albergue. A cheap place to stay, often used by young people travelling on a budget.\n\n*We stayed in a **hostel** in the city centre, which was affordable and convenient.*"
+ },
+ {
+  "id": "v-travel-hostel-g",
+  "enunciado": "Complete the sentence (the form may change): “We stayed in a _____ in the city centre, which was affordable and convenient.”",
+  "opciones": [
+   "hostel",
+   "excursion",
+   "tourist",
+   "backpacking"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Travel",
+  "teoria": "v-travel",
+  "explicacion": "**hostel** (noun) = albergue. A cheap place to stay, often used by young people travelling on a budget.\n\n*We stayed in a **hostel** in the city centre, which was affordable and convenient.*"
+ }
+]

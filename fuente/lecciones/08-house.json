@@ -1,0 +1,66 @@
+{
+ "n": 8,
+ "slug": "house",
+ "lesson": "Things Around the House",
+ "type": "Speaking",
+ "skill": "Making a polite complaint",
+ "words": [
+  {
+   "w": "a defect",
+   "pos": "noun",
+   "es": "defecto",
+   "def": "a flaw that stops something working properly",
+   "ex": "The engineer found a {defect} in the boiler that was causing the heating to fail."
+  },
+  {
+   "w": "a guarantee",
+   "pos": "noun",
+   "es": "garantía",
+   "def": "a seller's promise that a product will work for a certain period",
+   "ex": "The fridge is still under {guarantee}, so the repair should be free."
+  },
+  {
+   "w": "an engineer",
+   "pos": "noun",
+   "es": "técnico/a",
+   "def": "a person who comes to fix or install equipment in your home",
+   "ex": "The {engineer} came on Tuesday to look at the boiler."
+  },
+  {
+   "w": "an inconvenience",
+   "pos": "noun",
+   "es": "molestia / inconveniente",
+   "def": "a situation that causes difficulty or annoyance",
+   "ex": "Having no hot water for two days has been a real {inconvenience}."
+  },
+  {
+   "w": "to install",
+   "pos": "verb",
+   "es": "instalar",
+   "def": "to put equipment in place so it is ready to use",
+   "ex": "They {installed} the new oven last week, but it still doesn't work properly."
+  },
+  {
+   "w": "to fix",
+   "pos": "verb",
+   "es": "arreglar / reparar",
+   "def": "to repair something that is broken or not working",
+   "ex": "The plumber came quickly to {fix} the leaking pipe."
+  },
+  {
+   "w": "defective",
+   "pos": "adjective",
+   "es": "defectuoso",
+   "def": "not working properly because of a problem in how it was made",
+   "ex": "The tap was {defective} when it arrived: it leaked from day one."
+  },
+  {
+   "w": "persistent",
+   "pos": "adjective",
+   "es": "persistente",
+   "def": "continuing for a long time, longer than expected or wanted",
+   "ex": "The {persistent} smell of damp suggested there might be a leak behind the wall."
+  }
+ ],
+ "phrases": []
+}

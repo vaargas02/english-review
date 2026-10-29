@@ -1,0 +1,66 @@
+{
+ "n": 14,
+ "slug": "fitness",
+ "lesson": "Keeping Fit Outdoors",
+ "type": "Speaking",
+ "skill": "Reacting and asking follow-up questions",
+ "words": [
+  {
+   "w": "a regime",
+   "pos": "noun",
+   "es": "rutina / régimen (de entrenamiento)",
+   "def": "a structured, regular plan of exercise followed over time",
+   "ex": "He followed a strict outdoor fitness {regime} every week."
+  },
+  {
+   "w": "stamina",
+   "pos": "noun",
+   "es": "resistencia / aguante",
+   "def": "the ability to keep doing something physically demanding for a long time",
+   "ex": "Running long distances builds your {stamina} over time."
+  },
+  {
+   "w": "a rest day",
+   "pos": "noun",
+   "es": "día de descanso",
+   "def": "a day with no exercise so your body can recover",
+   "ex": "Most trainers recommend at least one {rest day} per week."
+  },
+  {
+   "w": "to pace yourself",
+   "pos": "verb",
+   "es": "dosificarse / ir a tu ritmo",
+   "def": "to control your speed or effort so you don't get tired too quickly",
+   "ex": "It's important to {pace yourself} on a long hike."
+  },
+  {
+   "w": "to keep up",
+   "pos": "phrasal verb",
+   "es": "seguir el ritmo",
+   "def": "to maintain the same speed or level as someone else",
+   "ex": "I found it hard to {keep up} with the group on the hill."
+  },
+  {
+   "w": "disciplined",
+   "pos": "adjective",
+   "es": "disciplinado",
+   "def": "able to follow a plan reliably without giving up",
+   "ex": "Being {disciplined} about your workouts leads to real long-term progress."
+  },
+  {
+   "w": "steadily",
+   "pos": "adverb",
+   "es": "de forma constante / progresiva",
+   "def": "slowly but without stopping, at an even pace",
+   "ex": "Her fitness improved {steadily} over the summer."
+  },
+  {
+   "w": "to push yourself",
+   "pos": "collocation",
+   "es": "exigirte / esforzarte al máximo",
+   "def": "to make yourself work harder than feels comfortable",
+   "ex": "You need to {push yourself} a little each time to see results."
+  }
+ ],
+ "phrases": []
+}

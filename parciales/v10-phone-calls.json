@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-phone-calls-verify-d",
+  "enunciado": "Which word or phrase means: “to check that information is correct or true”?",
+  "opciones": [
+   "to verify",
+   "to pass on",
+   "to put through",
+   "according to"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**to verify** (verb) = verificar / confirmar. To check that information is correct or true.\n\n*Could you **verify** the time of the appointment before we finish the call?*"
+ },
+ {
+  "id": "v-phone-calls-verify-g",
+  "enunciado": "Complete the sentence (the form may change): “Could you _____ the time of the appointment before we finish the call?”",
+  "opciones": [
+   "to verify",
+   "to pass on",
+   "to put through",
+   "according to"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**to verify** (verb) = verificar / confirmar. To check that information is correct or true.\n\n*Could you **verify** the time of the appointment before we finish the call?*"
+ },
+ {
+  "id": "v-phone-calls-get-through-d",
+  "enunciado": "Which word or phrase means: “to succeed in reaching someone by phone”?",
+  "opciones": [
+   "to get through",
+   "to put through",
+   "to pass on",
+   "unclear"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**to get through** (phrasal verb) = conseguir comunicar (por teléfono). To succeed in reaching someone by phone.\n\n*I tried three times before I **got through**.*"
+ },
+ {
+  "id": "v-phone-calls-get-through-g",
+  "enunciado": "Complete the sentence (the form may change): “I tried three times before I _____.”",
+  "opciones": [
+   "to get through",
+   "to put through",
+   "to pass on",
+   "unclear"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**to get through** (phrasal verb) = conseguir comunicar (por teléfono). To succeed in reaching someone by phone.\n\n*I tried three times before I **got through**.*"
+ },
+ {
+  "id": "v-phone-calls-pass-on-d",
+  "enunciado": "Which word or phrase means: “to give information to someone else”?",
+  "opciones": [
+   "to pass on",
+   "to put through",
+   "to get through",
+   "a follow-up"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**to pass on** (phrasal verb) = transmitir / dar un recado. To give information to someone else.\n\n*Can you **pass on** the message to your manager?*"
+ },
+ {
+  "id": "v-phone-calls-pass-on-g",
+  "enunciado": "Complete the sentence (the form may change): “Can you _____ the message to your manager?”",
+  "opciones": [
+   "to pass on",
+   "to put through",
+   "to get through",
+   "a follow-up"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**to pass on** (phrasal verb) = transmitir / dar un recado. To give information to someone else.\n\n*Can you **pass on** the message to your manager?*"
+ },
+ {
+  "id": "v-phone-calls-put-through-d",
+  "enunciado": "Which word or phrase means: “to connect a caller to another person”?",
+  "opciones": [
+   "to put through",
+   "to get through",
+   "to pass on",
+   "to verify"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**to put through** (phrasal verb) = pasar / poner con (una llamada). To connect a caller to another person.\n\n*The assistant **put me through** to the right department.*"
+ },
+ {
+  "id": "v-phone-calls-put-through-g",
+  "enunciado": "Complete the sentence (the form may change): “The assistant _____ to the right department.”",
+  "opciones": [
+   "to put through",
+   "to get through",
+   "to pass on",
+   "to verify"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**to put through** (phrasal verb) = pasar / poner con (una llamada). To connect a caller to another person.\n\n*The assistant **put me through** to the right department.*"
+ },
+ {
+  "id": "v-phone-calls-unclear-d",
+  "enunciado": "Which word or phrase means: “difficult to understand, hear or follow”?",
+  "opciones": [
+   "unclear",
+   "to pass on",
+   "to put through",
+   "according to"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**unclear** (adjective) = poco claro. Difficult to understand, hear or follow.\n\n*Her instructions were **unclear** over the phone.*"
+ },
+ {
+  "id": "v-phone-calls-unclear-g",
+  "enunciado": "Complete the sentence (the form may change): “Her instructions were _____ over the phone.”",
+  "opciones": [
+   "unclear",
+   "to pass on",
+   "to put through",
+   "according to"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**unclear** (adjective) = poco claro. Difficult to understand, hear or follow.\n\n*Her instructions were **unclear** over the phone.*"
+ },
+ {
+  "id": "v-phone-calls-follow-up-d",
+  "enunciado": "Which word or phrase means: “a further action or contact after an earlier one”?",
+  "opciones": [
+   "a follow-up",
+   "to get through",
+   "to put through",
+   "unclear"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**a follow-up** (noun) = seguimiento. A further action or contact after an earlier one.\n\n*He sent a **follow-up** email after the call.*"
+ },
+ {
+  "id": "v-phone-calls-follow-up-g",
+  "enunciado": "Complete the sentence (the form may change): “He sent a _____ email after the call.”",
+  "opciones": [
+   "a follow-up",
+   "to get through",
+   "to put through",
+   "unclear"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**a follow-up** (noun) = seguimiento. A further action or contact after an earlier one.\n\n*He sent a **follow-up** email after the call.*"
+ },
+ {
+  "id": "v-phone-calls-according-to-d",
+  "enunciado": "Which word or phrase means: “used to introduce information from another source”?",
+  "opciones": [
+   "according to",
+   "to pass on",
+   "unclear",
+   "to get through"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**according to** (expression) = según. Used to introduce information from another source.\n\n***According to** the caller, the meeting is on Friday.*"
+ },
+ {
+  "id": "v-phone-calls-according-to-g",
+  "enunciado": "Complete the sentence (the form may change): “_____ the caller, the meeting is on Friday.”",
+  "opciones": [
+   "according to",
+   "to pass on",
+   "unclear",
+   "to get through"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**according to** (expression) = según. Used to introduce information from another source.\n\n***According to** the caller, the meeting is on Friday.*"
+ },
+ {
+  "id": "v-phone-calls-apparently-d",
+  "enunciado": "Which word or phrase means: “used when reporting what you heard from someone else”?",
+  "opciones": [
+   "apparently",
+   "according to",
+   "unclear",
+   "to put through"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**apparently** (adverb) = al parecer / por lo visto. Used when reporting what you heard from someone else.\n\n***Apparently**, the delivery was delayed by two days.*"
+ },
+ {
+  "id": "v-phone-calls-apparently-g",
+  "enunciado": "Complete the sentence (the form may change): “_____, the delivery was delayed by two days.”",
+  "opciones": [
+   "apparently",
+   "according to",
+   "unclear",
+   "to put through"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Phone Calls",
+  "teoria": "v-phone-calls",
+  "explicacion": "**apparently** (adverb) = al parecer / por lo visto. Used when reporting what you heard from someone else.\n\n***Apparently**, the delivery was delayed by two days.*"
+ }
+]

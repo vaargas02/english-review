@@ -1,0 +1,49 @@
+{
+  "app": {
+    "id": "english-review",
+    "nombre": "English Review",
+    "subtitulo": "Vocabulary, grammar and functional language from my English classes",
+    "rutaBase": "/english-review/",
+    "versionContenido": "2026-10-28",
+    "versionCache": 1
+  },
+  "colores": {
+    "primario": "#1B2D5B",
+    "secundario": "#BFDBFF",
+    "acento": "#0D7377"
+  },
+  "ejeAgrupacion": {
+    "clave": "tema",
+    "etiqueta": "Area",
+    "orden": [
+      "Vocabulary",
+      "Grammar",
+      "Functional language",
+      "Mistakes & false friends"
+    ]
+  },
+  "estudio": {
+    "nuevasPorDia": 15,
+    "topeRepasosDia": 40,
+    "ordenOpcionesAleatorio": true,
+    "reaparicionTrasFallo": 10
+  },
+  "srs": {
+    "facilidadInicial": 2.5,
+    "facilidadMinima": 1.3,
+    "multiplicadorDude": 1.2,
+    "multiplicadorFacil": 1.3,
+    "penalizacionFallo": -0.2,
+    "penalizacionDude": -0.15,
+    "bonusFacil": 0.15,
+    "factorMostrarMenos": 3,
+    "umbralMaduroDias": 21,
+    "leechLapsus": 6,
+    "leechLapsusIntervaloCorto": 4
+  },
+  "modulos": {
+    "imagenes": false,
+    "teoria": true,
+    "tituloPestanaTeoria": "Consulta"
+  }
+}

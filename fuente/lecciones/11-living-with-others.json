@@ -1,0 +1,66 @@
+{
+ "n": 11,
+ "slug": "living-with-others",
+ "lesson": "Living with Others",
+ "type": "Speaking",
+ "skill": "Signposting a presentation and handling questions",
+ "words": [
+  {
+   "w": "to compromise",
+   "pos": "verb",
+   "es": "llegar a un acuerdo / ceder",
+   "def": "to reach an agreement where both people give up something",
+   "ex": "We had to {compromise} on when to have guests over."
+  },
+  {
+   "w": "a household norm",
+   "pos": "noun",
+   "es": "norma de la casa",
+   "def": "an agreed standard of behaviour in a shared home",
+   "ex": "One {household norm} in our flat is that everyone washes up within an hour."
+  },
+  {
+   "w": "to resolve",
+   "pos": "verb",
+   "es": "resolver",
+   "def": "to find a solution to a problem or disagreement",
+   "ex": "We sat down together to {resolve} the argument about the heating."
+  },
+  {
+   "w": "respectful",
+   "pos": "adjective",
+   "es": "respetuoso",
+   "def": "treating other people, their space and needs with care",
+   "ex": "It's important to be {respectful} of your housemates' sleep schedules."
+  },
+  {
+   "w": "a cleaning rota",
+   "pos": "noun",
+   "es": "turnos de limpieza",
+   "def": "a schedule showing whose turn it is to clean",
+   "ex": "The {cleaning rota} means everyone does their fair share."
+  },
+  {
+   "w": "tension",
+   "pos": "noun",
+   "es": "tensión",
+   "def": "a feeling of stress between people who disagree",
+   "ex": "There was some {tension} when nobody did the washing up."
+  },
+  {
+   "w": "to live with",
+   "pos": "phrasal verb",
+   "es": "convivir con",
+   "def": "to share a home with someone and manage daily life together",
+   "ex": "It can take time to learn how to {live with} someone new."
+  },
+  {
+   "w": "honestly",
+   "pos": "adverb",
+   "es": "con sinceridad",
+   "def": "in a true and open way, without hiding things",
+   "ex": "You need to talk {honestly} about problems before they get worse."
+  }
+ ],
+ "phrases": []
+}

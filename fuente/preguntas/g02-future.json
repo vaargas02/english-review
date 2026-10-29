@@ -1,0 +1,182 @@
+[
+ {
+  "id": "g-fut-001",
+  "enunciado": "“I ___ my advisor tomorrow at 3 PM.” (it's in your diary, she's expecting you)",
+  "opciones": [
+   "'m meeting",
+   "meet",
+   "will meeting",
+   "'m going meet"
+  ],
+  "correcta": 0,
+  "explicacion": "A fixed personal arrangement with someone else: present continuous for the future.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-002",
+  "enunciado": "“My train ___ at 8:30 AM.”",
+  "opciones": [
+   "leaves",
+   "is going to leave",
+   "will be leaving",
+   "is about leaving"
+  ],
+  "correcta": 0,
+  "explicacion": "Timetables and schedules use the present simple, even for the future.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-003",
+  "enunciado": "The phone rings. “I ___ get it!”",
+  "opciones": [
+   "'ll",
+   "'m going to",
+   "'m getting",
+   "get"
+  ],
+  "correcta": 0,
+  "explicacion": "An instant decision or offer made at the moment of speaking: will.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-004",
+  "enunciado": "“I've already decided: I ___ apply for that job.”",
+  "opciones": [
+   "'m going to",
+   "will",
+   "'m about",
+   "apply"
+  ],
+  "correcta": 0,
+  "explicacion": "A plan decided before speaking: be going to.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-005",
+  "enunciado": "“This time next year, I ___ in my first job.”",
+  "opciones": [
+   "'ll be working",
+   "'ll work",
+   "work",
+   "'m working"
+  ],
+  "correcta": 0,
+  "explicacion": "An action in progress at a specific future moment: future continuous (will be + -ing).",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-006",
+  "enunciado": "“Hurry up! The film ___ start.”",
+  "opciones": [
+   "is about to",
+   "is due",
+   "will be",
+   "is going"
+  ],
+  "correcta": 0,
+  "explicacion": "Be about to + verb = very near future, in a moment.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-007",
+  "enunciado": "“The semester ___ end next week.” (official schedule)",
+  "opciones": [
+   "is due to",
+   "is about to",
+   "will be",
+   "is ending to"
+  ],
+  "correcta": 0,
+  "explicacion": "Be due to + verb = scheduled or expected at a specific time.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-008",
+  "enunciado": "“As soon as I ___ my degree, I'm going to apply for jobs.”",
+  "opciones": [
+   "get",
+   "will get",
+   "am going to get",
+   "would get"
+  ],
+  "correcta": 0,
+  "explicacion": "After when, as soon as and by the time we use the present simple, not will.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-009",
+  "enunciado": "“By the time I ___ university, I will have a job offer.”",
+  "opciones": [
+   "finish",
+   "will finish",
+   "finished",
+   "am finishing"
+  ],
+  "correcta": 0,
+  "explicacion": "Time clauses (by the time, when, as soon as) take the present with future meaning.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-010",
+  "enunciado": "“Look at those clouds! It ___ rain.”",
+  "opciones": [
+   "'s going to",
+   "will",
+   "is due to",
+   "rains"
+  ],
+  "correcta": 0,
+  "explicacion": "A prediction based on present evidence (the clouds): be going to.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-011",
+  "enunciado": "“I ___ help you with your application, I promise.”",
+  "opciones": [
+   "will",
+   "am going",
+   "am helping",
+   "help"
+  ],
+  "correcta": 0,
+  "explicacion": "Promises and offers use will.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ },
+ {
+  "id": "g-fut-012",
+  "enunciado": "Which is a distant-future expression?",
+  "opciones": [
+   "eventually",
+   "tomorrow",
+   "this weekend",
+   "at 2 PM"
+  ],
+  "correcta": 0,
+  "explicacion": "Near: tomorrow, next week, soon. Distant: next year, someday, eventually. Specific: at 2 PM, on Monday.",
+  "tema": "Grammar",
+  "subtema": "Future forms",
+  "teoria": "g-future"
+ }
+]

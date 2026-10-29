@@ -1,0 +1,152 @@
+[
+ {
+  "id": "g-pres-001",
+  "enunciado": "“He ___ online games with friends every weekend.”",
+  "opciones": [
+   "plays",
+   "is playing",
+   "play",
+   "has playing"
+  ],
+  "correcta": 0,
+  "explicacion": "Every weekend = a regular habit, so present simple, with -s for he/she/it.",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-002",
+  "enunciado": "“I can't talk now, I ___ a new series on Netflix.”",
+  "opciones": [
+   "am watching",
+   "watch",
+   "watches",
+   "have watch"
+  ],
+  "correcta": 0,
+  "explicacion": "Right now / at this moment = present continuous: am/is/are + -ing.",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-003",
+  "enunciado": "“She ___ an interesting book these days.”",
+  "opciones": [
+   "is reading",
+   "reads",
+   "read",
+   "has read"
+  ],
+  "correcta": 0,
+  "explicacion": "These days marks a temporary situation, so present continuous.",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-004",
+  "enunciado": "Which sentence is correct?",
+  "opciones": [
+   "I love this game.",
+   "I'm loving this game.",
+   "I am love this game.",
+   "I loving this game."
+  ],
+  "correcta": 0,
+  "explicacion": "Love is a state verb and is normally not used in the continuous. Same for like, prefer, want, know, understand.",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-005",
+  "enunciado": "“She ___ comedy shows, but this month she's trying documentaries.”",
+  "opciones": [
+   "prefers",
+   "is preferring",
+   "prefer",
+   "preferring"
+  ],
+  "correcta": 0,
+  "explicacion": "Prefer is a state verb: present simple, even when the rest of the sentence describes something temporary.",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-006",
+  "enunciado": "Which time expression goes with the present continuous?",
+  "opciones": [
+   "at the moment",
+   "every week",
+   "usually",
+   "on Mondays"
+  ],
+  "correcta": 0,
+  "explicacion": "At the moment, right now, currently, these days and this week signal the continuous. The others signal habits (simple).",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-007",
+  "enunciado": "“I usually play video games, but I ___ more books these days.”",
+  "opciones": [
+   "'m reading",
+   "read",
+   "reads",
+   "'m read"
+  ],
+  "correcta": 0,
+  "explicacion": "Contrast: usual habit (simple) vs temporary change (continuous).",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-008",
+  "enunciado": "“Do you understand?” — Which answer is correct?",
+  "opciones": [
+   "Yes, I understand.",
+   "Yes, I'm understanding.",
+   "Yes, I understanding.",
+   "Yes, I am understand."
+  ],
+  "correcta": 0,
+  "explicacion": "Understand and know are state verbs: no continuous form.",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-009",
+  "enunciado": "“He's trying tennis this month” describes…",
+  "opciones": [
+   "a temporary activity",
+   "a permanent habit",
+   "a fact that is always true",
+   "a timetable"
+  ],
+  "correcta": 0,
+  "explicacion": "This month limits the action in time: temporary, so present continuous.",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ },
+ {
+  "id": "g-pres-010",
+  "enunciado": "“My sister ___ in Madrid” (permanent fact).",
+  "opciones": [
+   "lives",
+   "is living",
+   "live",
+   "living"
+  ],
+  "correcta": 0,
+  "explicacion": "A permanent fact or situation uses the present simple. Is living would suggest a temporary arrangement.",
+  "tema": "Grammar",
+  "subtema": "Present simple vs continuous",
+  "teoria": "g-present"
+ }
+]

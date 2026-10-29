@@ -1,0 +1,82 @@
+{
+ "n": 18,
+ "slug": "food-markets",
+ "lesson": "Food Markets",
+ "type": "Speaking",
+ "skill": "Solving a problem and agreeing on a solution",
+ "words": [
+  {
+   "w": "bustling",
+   "pos": "adjective",
+   "es": "bullicioso / animado",
+   "def": "full of energetic activity; lively and busy",
+   "ex": "The {bustling} market was packed with shoppers and sellers.",
+   "syn": "lively",
+   "opp": "quiet"
+  },
+  {
+   "w": "seasonal",
+   "pos": "adjective",
+   "es": "de temporada",
+   "def": "only available at a certain time of year",
+   "ex": "I always look for {seasonal} fruit at the market.",
+   "syn": "time-specific",
+   "opp": "year-round"
+  },
+  {
+   "w": "to stock",
+   "pos": "verb",
+   "es": "tener en existencia / vender",
+   "def": "to keep or sell a supply of something",
+   "ex": "That stall {stocks} about twelve types of olive oil.",
+   "syn": "to carry",
+   "opp": "to run out of"
+  },
+  {
+   "w": "street food",
+   "pos": "noun",
+   "es": "comida callejera",
+   "def": "cooked food sold in the open air, ready to eat",
+   "ex": "The best {street food} I ever had was at a night market.",
+   "syn": "a takeaway snack",
+   "opp": "a sit-down meal"
+  },
+  {
+   "w": "a trader",
+   "pos": "noun",
+   "es": "comerciante / vendedor",
+   "def": "a person who buys and sells goods, especially at a market",
+   "ex": "The {trader} arranged colourful pyramids of fruit to attract customers.",
+   "syn": "a merchant",
+   "opp": "a buyer"
+  },
+  {
+   "w": "extortionate",
+   "pos": "adjective",
+   "es": "abusivo / desorbitado (precio)",
+   "def": "much too expensive; far more than is fair",
+   "ex": "The tourist market was {extortionate}: a small bag of nuts cost ten euros.",
+   "syn": "excessive",
+   "opp": "reasonable"
+  },
+  {
+   "w": "to seek out",
+   "pos": "phrasal verb",
+   "es": "buscar (con empeño)",
+   "def": "to make an effort to find something specific",
+   "ex": "She always {seeks out} the stall with the best chillies.",
+   "syn": "to hunt for",
+   "opp": "to ignore"
+  },
+  {
+   "w": "a selection",
+   "pos": "noun",
+   "es": "surtido / selección",
+   "def": "a range of things to choose from",
+   "ex": "This market has a wonderful {selection} of cheeses.",
+   "syn": "a range",
+   "opp": "a single choice"
+  }
+ ],
+ "phrases": []
+}

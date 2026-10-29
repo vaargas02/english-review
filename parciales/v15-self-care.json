@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-self-care-boundary-d",
+  "enunciado": "Which word or phrase means: “a clear limit you set to protect your time or energy”?",
+  "opciones": [
+   "a boundary",
+   "a coping strategy",
+   "restorative",
+   "to neglect"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**a boundary** (noun) = límite. A clear limit you set to protect your time or energy.\n\n*She set a **boundary**: no work calls after seven in the evening.*"
+ },
+ {
+  "id": "v-self-care-boundary-g",
+  "enunciado": "Complete the sentence (the form may change): “She set a _____: no work calls after seven in the evening.”",
+  "opciones": [
+   "a boundary",
+   "a coping strategy",
+   "restorative",
+   "to neglect"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**a boundary** (noun) = límite. A clear limit you set to protect your time or energy.\n\n*She set a **boundary**: no work calls after seven in the evening.*"
+ },
+ {
+  "id": "v-self-care-neglect-d",
+  "enunciado": "Which word or phrase means: “to fail to give enough attention or care to something”?",
+  "opciones": [
+   "to neglect",
+   "sustainable",
+   "to wear yourself out",
+   "intentionally"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**to neglect** (verb) = descuidar. To fail to give enough attention or care to something.\n\n*When he is busy, he tends to **neglect** his own health.*"
+ },
+ {
+  "id": "v-self-care-neglect-g",
+  "enunciado": "Complete the sentence (the form may change): “When he is busy, he tends to _____ his own health.”",
+  "opciones": [
+   "to neglect",
+   "sustainable",
+   "to wear yourself out",
+   "intentionally"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**to neglect** (verb) = descuidar. To fail to give enough attention or care to something.\n\n*When he is busy, he tends to **neglect** his own health.*"
+ },
+ {
+  "id": "v-self-care-restorative-d",
+  "enunciado": "Which word or phrase means: “helping you feel fresh and full of energy again”?",
+  "opciones": [
+   "restorative",
+   "sustainable",
+   "to neglect",
+   "a boundary"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**restorative** (adjective) = reparador. Helping you feel fresh and full of energy again.\n\n*A long walk in nature can be deeply **restorative**.*"
+ },
+ {
+  "id": "v-self-care-restorative-g",
+  "enunciado": "Complete the sentence (the form may change): “A long walk in nature can be deeply _____.”",
+  "opciones": [
+   "restorative",
+   "sustainable",
+   "to neglect",
+   "a boundary"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**restorative** (adjective) = reparador. Helping you feel fresh and full of energy again.\n\n*A long walk in nature can be deeply **restorative**.*"
+ },
+ {
+  "id": "v-self-care-coping-strategy-d",
+  "enunciado": "Which word or phrase means: “a method someone uses to manage stress or difficult emotions”?",
+  "opciones": [
+   "a coping strategy",
+   "a boundary",
+   "to neglect",
+   "to clear your head"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**a coping strategy** (noun) = estrategia de afrontamiento. A method someone uses to manage stress or difficult emotions.\n\n*Going for a run is her main **coping strategy** when work gets overwhelming.*"
+ },
+ {
+  "id": "v-self-care-coping-strategy-g",
+  "enunciado": "Complete the sentence (the form may change): “Going for a run is her main _____ when work gets overwhelming.”",
+  "opciones": [
+   "a coping strategy",
+   "a boundary",
+   "to neglect",
+   "to clear your head"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**a coping strategy** (noun) = estrategia de afrontamiento. A method someone uses to manage stress or difficult emotions.\n\n*Going for a run is her main **coping strategy** when work gets overwhelming.*"
+ },
+ {
+  "id": "v-self-care-wear-yourself-out-d",
+  "enunciado": "Which word or phrase means: “to make yourself exhausted by doing too much for a long time”?",
+  "opciones": [
+   "to wear yourself out",
+   "a boundary",
+   "a coping strategy",
+   "sustainable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**to wear yourself out** (phrasal verb) = agotarte. To make yourself exhausted by doing too much for a long time.\n\n*If you never take breaks, you'll **wear yourself out** before the end of the year.*"
+ },
+ {
+  "id": "v-self-care-wear-yourself-out-g",
+  "enunciado": "Complete the sentence (the form may change): “If you never take breaks, you'll _____ before the end of the year.”",
+  "opciones": [
+   "to wear yourself out",
+   "a boundary",
+   "a coping strategy",
+   "sustainable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**to wear yourself out** (phrasal verb) = agotarte. To make yourself exhausted by doing too much for a long time.\n\n*If you never take breaks, you'll **wear yourself out** before the end of the year.*"
+ },
+ {
+  "id": "v-self-care-intentionally-d",
+  "enunciado": "Which word or phrase means: “done on purpose, with a clear aim”?",
+  "opciones": [
+   "intentionally",
+   "to wear yourself out",
+   "restorative",
+   "a coping strategy"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**intentionally** (adverb) = a propósito / intencionadamente. Done on purpose, with a clear aim.\n\n*She **intentionally** sets aside time each week to do something just for herself.*"
+ },
+ {
+  "id": "v-self-care-intentionally-g",
+  "enunciado": "Complete the sentence (the form may change): “She _____ sets aside time each week to do something just for herself.”",
+  "opciones": [
+   "intentionally",
+   "to wear yourself out",
+   "restorative",
+   "a coping strategy"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**intentionally** (adverb) = a propósito / intencionadamente. Done on purpose, with a clear aim.\n\n*She **intentionally** sets aside time each week to do something just for herself.*"
+ },
+ {
+  "id": "v-self-care-clear-your-head-d",
+  "enunciado": "Which word or phrase means: “to stop thinking about problems and feel calmer”?",
+  "opciones": [
+   "to clear your head",
+   "sustainable",
+   "restorative",
+   "intentionally"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**to clear your head** (collocation) = despejar la mente. To stop thinking about problems and feel calmer.\n\n*A short run helps him **clear his head** after a long meeting.*"
+ },
+ {
+  "id": "v-self-care-clear-your-head-g",
+  "enunciado": "Complete the sentence (the form may change): “A short run helps him _____ after a long meeting.”",
+  "opciones": [
+   "to clear your head",
+   "sustainable",
+   "restorative",
+   "intentionally"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**to clear your head** (collocation) = despejar la mente. To stop thinking about problems and feel calmer.\n\n*A short run helps him **clear his head** after a long meeting.*"
+ },
+ {
+  "id": "v-self-care-sustainable-d",
+  "enunciado": "Which word or phrase means: “able to continue for a long time without causing problems”?",
+  "opciones": [
+   "sustainable",
+   "restorative",
+   "a boundary",
+   "a coping strategy"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**sustainable** (adjective) = sostenible. Able to continue for a long time without causing problems.\n\n*Small daily habits are more **sustainable** than big changes.*"
+ },
+ {
+  "id": "v-self-care-sustainable-g",
+  "enunciado": "Complete the sentence (the form may change): “Small daily habits are more _____ than big changes.”",
+  "opciones": [
+   "sustainable",
+   "restorative",
+   "a boundary",
+   "a coping strategy"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Self-Care",
+  "teoria": "v-self-care",
+  "explicacion": "**sustainable** (adjective) = sostenible. Able to continue for a long time without causing problems.\n\n*Small daily habits are more **sustainable** than big changes.*"
+ }
+]

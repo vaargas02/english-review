@@ -1,0 +1,66 @@
+{
+ "n": 15,
+ "slug": "self-care",
+ "lesson": "Self-Care",
+ "type": "Speaking",
+ "skill": "Discussing habits and opinions",
+ "words": [
+  {
+   "w": "a boundary",
+   "pos": "noun",
+   "es": "límite",
+   "def": "a clear limit you set to protect your time or energy",
+   "ex": "She set a {boundary}: no work calls after seven in the evening."
+  },
+  {
+   "w": "to neglect",
+   "pos": "verb",
+   "es": "descuidar",
+   "def": "to fail to give enough attention or care to something",
+   "ex": "When he is busy, he tends to {neglect} his own health."
+  },
+  {
+   "w": "restorative",
+   "pos": "adjective",
+   "es": "reparador",
+   "def": "helping you feel fresh and full of energy again",
+   "ex": "A long walk in nature can be deeply {restorative}."
+  },
+  {
+   "w": "a coping strategy",
+   "pos": "noun",
+   "es": "estrategia de afrontamiento",
+   "def": "a method someone uses to manage stress or difficult emotions",
+   "ex": "Going for a run is her main {coping strategy} when work gets overwhelming."
+  },
+  {
+   "w": "to wear yourself out",
+   "pos": "phrasal verb",
+   "es": "agotarte",
+   "def": "to make yourself exhausted by doing too much for a long time",
+   "ex": "If you never take breaks, you'll {wear yourself out} before the end of the year."
+  },
+  {
+   "w": "intentionally",
+   "pos": "adverb",
+   "es": "a propósito / intencionadamente",
+   "def": "done on purpose, with a clear aim",
+   "ex": "She {intentionally} sets aside time each week to do something just for herself."
+  },
+  {
+   "w": "to clear your head",
+   "pos": "collocation",
+   "es": "despejar la mente",
+   "def": "to stop thinking about problems and feel calmer",
+   "ex": "A short run helps him {clear his head} after a long meeting."
+  },
+  {
+   "w": "sustainable",
+   "pos": "adjective",
+   "es": "sostenible",
+   "def": "able to continue for a long time without causing problems",
+   "ex": "Small daily habits are more {sustainable} than big changes."
+  }
+ ],
+ "phrases": []
+}

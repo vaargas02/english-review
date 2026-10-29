@@ -1,0 +1,77 @@
+[
+ {
+  "id": "f-arg-001",
+  "enunciado": "Strongest way to state your view:",
+  "opciones": [
+   "I strongly believe that…",
+   "Maybe perhaps I think…",
+   "I'm agree that…",
+   "In my opinion of…"
+  ],
+  "correcta": 0,
+  "explicacion": "I think / In my opinion / I strongly believe introduce your view.",
+  "tema": "Functional language",
+  "subtema": "Arguing a point and describing incidents",
+  "teoria": "f-arguing"
+ },
+ {
+  "id": "f-arg-002",
+  "enunciado": "Which phrase gives a reason?",
+  "opciones": [
+   "This is mainly due to…",
+   "For example…",
+   "In my experience…",
+   "To sum up…"
+  ],
+  "correcta": 0,
+  "explicacion": "Because / The reason is / This is mainly due to give reasons. For example / In my experience support them.",
+  "tema": "Functional language",
+  "subtema": "Arguing a point and describing incidents",
+  "teoria": "f-arguing"
+ },
+ {
+  "id": "f-arg-003",
+  "enunciado": "Partly agreeing politely:",
+  "opciones": [
+   "I partly agree, but…",
+   "I'm partly agree.",
+   "You are not right totally.",
+   "I agree but no."
+  ],
+  "correcta": 0,
+  "explicacion": "I partly agree, but… keeps the discussion respectful.",
+  "tema": "Functional language",
+  "subtema": "Arguing a point and describing incidents",
+  "teoria": "f-arguing"
+ },
+ {
+  "id": "f-arg-004",
+  "enunciado": "“I was frustrated because I ___ looking forward to it all day.”",
+  "opciones": [
+   "had been",
+   "have been",
+   "was been",
+   "am"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I was frustrated because I had been looking forward to it all day.*\n\nPast perfect continuous gives the background to a past incident.",
+  "tema": "Functional language",
+  "subtema": "Arguing a point and describing incidents",
+  "teoria": "f-arguing"
+ },
+ {
+  "id": "f-arg-005",
+  "enunciado": "When describing an incident, what should you always add?",
+  "opciones": [
+   "How you felt and why",
+   "The exact price in euros",
+   "The weather that day",
+   "The name of the driver"
+  ],
+  "correcta": 0,
+  "explicacion": "The lesson's check: say how you felt and why, not just what happened.",
+  "tema": "Functional language",
+  "subtema": "Arguing a point and describing incidents",
+  "teoria": "f-arguing"
+ }
+]

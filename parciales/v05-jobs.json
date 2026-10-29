@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-jobs-candidate-d",
+  "enunciado": "Which word or phrase means: “a person who applies for a job”?",
+  "opciones": [
+   "a candidate",
+   "a cover letter",
+   "a position",
+   "suitable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**a candidate** (noun) = candidato/a. A person who applies for a job.\n\n*There were five strong **candidates** for the role.*"
+ },
+ {
+  "id": "v-jobs-candidate-g",
+  "enunciado": "Complete the sentence (the form may change): “There were five strong _____ for the role.”",
+  "opciones": [
+   "a candidate",
+   "a cover letter",
+   "a position",
+   "suitable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**a candidate** (noun) = candidato/a. A person who applies for a job.\n\n*There were five strong **candidates** for the role.*"
+ },
+ {
+  "id": "v-jobs-cover-letter-d",
+  "enunciado": "Which word or phrase means: “a short letter you send with your CV explaining why you want the job”?",
+  "opciones": [
+   "a cover letter",
+   "a candidate",
+   "a position",
+   "relevant experience"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**a cover letter** (noun) = carta de presentación. A short letter you send with your CV explaining why you want the job.\n\n*Her **cover letter** explained exactly why she was a good fit.*"
+ },
+ {
+  "id": "v-jobs-cover-letter-g",
+  "enunciado": "Complete the sentence (the form may change): “Her _____ explained exactly why she was a good fit.”",
+  "opciones": [
+   "a cover letter",
+   "a candidate",
+   "a position",
+   "relevant experience"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**a cover letter** (noun) = carta de presentación. A short letter you send with your CV explaining why you want the job.\n\n*Her **cover letter** explained exactly why she was a good fit.*"
+ },
+ {
+  "id": "v-jobs-suitable-d",
+  "enunciado": "Which word or phrase means: “right or appropriate for a particular job or situation”?",
+  "opciones": [
+   "suitable",
+   "competitive",
+   "a position",
+   "to put yourself forward"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**suitable** (adjective) = adecuado/a. Right or appropriate for a particular job or situation.\n\n*I'm not sure I'm **suitable** for such a technical role.*"
+ },
+ {
+  "id": "v-jobs-suitable-g",
+  "enunciado": "Complete the sentence (the form may change): “I'm not sure I'm _____ for such a technical role.”",
+  "opciones": [
+   "suitable",
+   "competitive",
+   "a position",
+   "to put yourself forward"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**suitable** (adjective) = adecuado/a. Right or appropriate for a particular job or situation.\n\n*I'm not sure I'm **suitable** for such a technical role.*"
+ },
+ {
+  "id": "v-jobs-make-your-mark-d",
+  "enunciado": "Which word or phrase means: “to do something that gets you noticed or shows what you can do”?",
+  "opciones": [
+   "to make your mark",
+   "suitable",
+   "competitive",
+   "a position"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**to make your mark** (verb) = dejar huella / destacar. To do something that gets you noticed or shows what you can do.\n\n*She wanted to **make her mark** early, so she volunteered for the hardest projects.*"
+ },
+ {
+  "id": "v-jobs-make-your-mark-g",
+  "enunciado": "Complete the sentence (the form may change): “She wanted to _____ early, so she volunteered for the hardest projects.”",
+  "opciones": [
+   "to make your mark",
+   "suitable",
+   "competitive",
+   "a position"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**to make your mark** (verb) = dejar huella / destacar. To do something that gets you noticed or shows what you can do.\n\n*She wanted to **make her mark** early, so she volunteered for the hardest projects.*"
+ },
+ {
+  "id": "v-jobs-position-d",
+  "enunciado": "Which word or phrase means: “a particular job within an organisation”?",
+  "opciones": [
+   "a position",
+   "a cover letter",
+   "a candidate",
+   "to put yourself forward"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**a position** (noun) = puesto. A particular job within an organisation.\n\n*It was a senior **position**, so the advert asked for three years' experience.*"
+ },
+ {
+  "id": "v-jobs-position-g",
+  "enunciado": "Complete the sentence (the form may change): “It was a senior _____, so the advert asked for three years' experience.”",
+  "opciones": [
+   "a position",
+   "a cover letter",
+   "a candidate",
+   "to put yourself forward"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**a position** (noun) = puesto. A particular job within an organisation.\n\n*It was a senior **position**, so the advert asked for three years' experience.*"
+ },
+ {
+  "id": "v-jobs-relevant-experience-d",
+  "enunciado": "Which word or phrase means: “work or skills that are directly useful for a particular job”?",
+  "opciones": [
+   "relevant experience",
+   "suitable",
+   "competitive",
+   "a position"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**relevant experience** (collocation) = experiencia relevante. Work or skills that are directly useful for a particular job.\n\n*Do you have any **relevant experience** for this kind of work?*"
+ },
+ {
+  "id": "v-jobs-relevant-experience-g",
+  "enunciado": "Complete the sentence (the form may change): “Do you have any _____ for this kind of work?”",
+  "opciones": [
+   "relevant experience",
+   "suitable",
+   "competitive",
+   "a position"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**relevant experience** (collocation) = experiencia relevante. Work or skills that are directly useful for a particular job.\n\n*Do you have any **relevant experience** for this kind of work?*"
+ },
+ {
+  "id": "v-jobs-put-yourself-forward-d",
+  "enunciado": "Which word or phrase means: “to volunteer or apply for something, especially a job”?",
+  "opciones": [
+   "to put yourself forward",
+   "a cover letter",
+   "a candidate",
+   "to make your mark"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**to put yourself forward** (phrasal verb) = presentarse / ofrecerse (como candidato). To volunteer or apply for something, especially a job.\n\n*It can feel daunting to **put yourself forward** for a senior role.*"
+ },
+ {
+  "id": "v-jobs-put-yourself-forward-g",
+  "enunciado": "Complete the sentence (the form may change): “It can feel daunting to _____ for a senior role.”",
+  "opciones": [
+   "to put yourself forward",
+   "a cover letter",
+   "a candidate",
+   "to make your mark"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**to put yourself forward** (phrasal verb) = presentarse / ofrecerse (como candidato). To volunteer or apply for something, especially a job.\n\n*It can feel daunting to **put yourself forward** for a senior role.*"
+ },
+ {
+  "id": "v-jobs-competitive-d",
+  "enunciado": "Which word or phrase means: “hard to get because many people want it; also describes good pay”?",
+  "opciones": [
+   "competitive",
+   "suitable",
+   "relevant experience",
+   "to put yourself forward"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**competitive** (adjective) = competitivo (difícil de conseguir / bien pagado). Hard to get because many people want it; also describes good pay.\n\n*The salary is **competitive**, and so is the number of applicants.*"
+ },
+ {
+  "id": "v-jobs-competitive-g",
+  "enunciado": "Complete the sentence (the form may change): “The salary is _____, and so is the number of applicants.”",
+  "opciones": [
+   "competitive",
+   "suitable",
+   "relevant experience",
+   "to put yourself forward"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Job Adverts and Applications",
+  "teoria": "v-jobs",
+  "explicacion": "**competitive** (adjective) = competitivo (difícil de conseguir / bien pagado). Hard to get because many people want it; also describes good pay.\n\n*The salary is **competitive**, and so is the number of applicants.*"
+ }
+]

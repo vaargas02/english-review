@@ -1,0 +1,52 @@
+{
+ "n": 19,
+ "slug": "music",
+ "lesson": "The kind of music I love",
+ "type": "Speaking",
+ "skill": "Describing with who / that; saying how much",
+ "words": [
+  {
+   "w": "a musician",
+   "pos": "noun",
+   "es": "músico/a",
+   "def": "a person who plays or writes music",
+   "ex": "She's the {musician} who writes all her songs."
+  },
+  {
+   "w": "an album",
+   "pos": "noun",
+   "es": "álbum / disco",
+   "def": "a collection of songs released together",
+   "ex": "Do you like her new {album}?"
+  },
+  {
+   "w": "a band",
+   "pos": "noun",
+   "es": "grupo / banda",
+   "def": "a group of people who play music together",
+   "ex": "He's a friend who plays in a {band}."
+  },
+  {
+   "w": "a lot more (than)",
+   "pos": "expression",
+   "es": "mucho más (que)",
+   "def": "much more; used to compare how much you like things",
+   "ex": "I like their old style {a lot more} than the new one."
+  },
+  {
+   "w": "not at all",
+   "pos": "expression",
+   "es": "para nada / en absoluto",
+   "def": "a strong 'no'; zero",
+   "ex": "Do you like it? {Not at all}! Sorry, it's not for me."
+  },
+  {
+   "w": "it depends (on)",
+   "pos": "expression",
+   "es": "depende (de)",
+   "def": "the answer changes according to the situation",
+   "ex": "Music when I work? {It depends} on the day."
+  }
+ ],
+ "phrases": []
+}

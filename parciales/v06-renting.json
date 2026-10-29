@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-renting-lease-d",
+  "enunciado": "Which word or phrase means: “a written agreement to use something (a car, property) for a set period in exchange for payment”?",
+  "opciones": [
+   "a lease",
+   "a penalty",
+   "to hand back",
+   "to collect"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**a lease** (noun) = contrato de alquiler. A written agreement to use something (a car, property) for a set period in exchange for payment.\n\n*Read the **lease** carefully before you sign: some clauses are easy to miss.*"
+ },
+ {
+  "id": "v-renting-lease-g",
+  "enunciado": "Complete the sentence (the form may change): “Read the _____ carefully before you sign: some clauses are easy to miss.”",
+  "opciones": [
+   "a lease",
+   "a penalty",
+   "to hand back",
+   "to collect"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**a lease** (noun) = contrato de alquiler. A written agreement to use something (a car, property) for a set period in exchange for payment.\n\n*Read the **lease** carefully before you sign: some clauses are easy to miss.*"
+ },
+ {
+  "id": "v-renting-damage-d",
+  "enunciado": "Which word or phrase means: “to harm or break something so it is less useful or valuable”?",
+  "opciones": [
+   "to damage",
+   "to collect",
+   "a lease",
+   "open-ended"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**to damage** (verb) = dañar. To harm or break something so it is less useful or valuable.\n\n*If you **damage** the item, you may lose your deposit.*"
+ },
+ {
+  "id": "v-renting-damage-g",
+  "enunciado": "Complete the sentence (the form may change): “If you _____ the item, you may lose your deposit.”",
+  "opciones": [
+   "to damage",
+   "to collect",
+   "a lease",
+   "open-ended"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**to damage** (verb) = dañar. To harm or break something so it is less useful or valuable.\n\n*If you **damage** the item, you may lose your deposit.*"
+ },
+ {
+  "id": "v-renting-on-hand-d",
+  "enunciado": "Which word or phrase means: “ready and available to use or collect right now”?",
+  "opciones": [
+   "on hand",
+   "open-ended",
+   "to collect",
+   "wear and tear"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**on hand** (adjective) = disponible. Ready and available to use or collect right now.\n\n*They said there were still a few vans **on hand** for the weekend.*"
+ },
+ {
+  "id": "v-renting-on-hand-g",
+  "enunciado": "Complete the sentence (the form may change): “They said there were still a few vans _____ for the weekend.”",
+  "opciones": [
+   "on hand",
+   "open-ended",
+   "to collect",
+   "wear and tear"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**on hand** (adjective) = disponible. Ready and available to use or collect right now.\n\n*They said there were still a few vans **on hand** for the weekend.*"
+ },
+ {
+  "id": "v-renting-collect-d",
+  "enunciado": "Which word or phrase means: “to go somewhere and get something that is waiting for you”?",
+  "opciones": [
+   "to collect",
+   "to damage",
+   "wear and tear",
+   "on hand"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**to collect** (verb) = recoger. To go somewhere and get something that is waiting for you.\n\n*You can **collect** the keys from the front desk after two o'clock.*"
+ },
+ {
+  "id": "v-renting-collect-g",
+  "enunciado": "Complete the sentence (the form may change): “You can _____ the keys from the front desk after two o'clock.”",
+  "opciones": [
+   "to collect",
+   "to damage",
+   "wear and tear",
+   "on hand"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**to collect** (verb) = recoger. To go somewhere and get something that is waiting for you.\n\n*You can **collect** the keys from the front desk after two o'clock.*"
+ },
+ {
+  "id": "v-renting-penalty-d",
+  "enunciado": "Which word or phrase means: “an extra charge you pay for breaking a rule”?",
+  "opciones": [
+   "a penalty",
+   "a lease",
+   "to hand back",
+   "wear and tear"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**a penalty** (noun) = penalización / recargo. An extra charge you pay for breaking a rule.\n\n*There's a **penalty** if you return the car late.*"
+ },
+ {
+  "id": "v-renting-penalty-g",
+  "enunciado": "Complete the sentence (the form may change): “There's a _____ if you return the car late.”",
+  "opciones": [
+   "a penalty",
+   "a lease",
+   "to hand back",
+   "wear and tear"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**a penalty** (noun) = penalización / recargo. An extra charge you pay for breaking a rule.\n\n*There's a **penalty** if you return the car late.*"
+ },
+ {
+  "id": "v-renting-wear-and-tear-d",
+  "enunciado": "Which word or phrase means: “gradual damage from normal everyday use”?",
+  "opciones": [
+   "wear and tear",
+   "a penalty",
+   "on hand",
+   "to hand back"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**wear and tear** (collocation) = desgaste (por uso normal). Gradual damage from normal everyday use.\n\n*Some **wear and tear** is expected, but big scratches are not.*"
+ },
+ {
+  "id": "v-renting-wear-and-tear-g",
+  "enunciado": "Complete the sentence (the form may change): “Some _____ is expected, but big scratches are not.”",
+  "opciones": [
+   "wear and tear",
+   "a penalty",
+   "on hand",
+   "to hand back"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**wear and tear** (collocation) = desgaste (por uso normal). Gradual damage from normal everyday use.\n\n*Some **wear and tear** is expected, but big scratches are not.*"
+ },
+ {
+  "id": "v-renting-open-ended-d",
+  "enunciado": "Which word or phrase means: “not fixed to a strict end date or set conditions”?",
+  "opciones": [
+   "open-ended",
+   "on hand",
+   "to hand back",
+   "to damage"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**open-ended** (adjective) = sin fecha fija / abierto. Not fixed to a strict end date or set conditions.\n\n*They offer an **open-ended** hire plan, so you can keep the car as long as you need.*"
+ },
+ {
+  "id": "v-renting-open-ended-g",
+  "enunciado": "Complete the sentence (the form may change): “They offer an _____ hire plan, so you can keep the car as long as you need.”",
+  "opciones": [
+   "open-ended",
+   "on hand",
+   "to hand back",
+   "to damage"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**open-ended** (adjective) = sin fecha fija / abierto. Not fixed to a strict end date or set conditions.\n\n*They offer an **open-ended** hire plan, so you can keep the car as long as you need.*"
+ },
+ {
+  "id": "v-renting-hand-back-d",
+  "enunciado": "Which word or phrase means: “to return something to the person or place you got it from”?",
+  "opciones": [
+   "to hand back",
+   "on hand",
+   "wear and tear",
+   "open-ended"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**to hand back** (phrasal verb) = devolver. To return something to the person or place you got it from.\n\n*Just **hand back** the keys at reception when you're done.*"
+ },
+ {
+  "id": "v-renting-hand-back-g",
+  "enunciado": "Complete the sentence (the form may change): “Just _____ the keys at reception when you're done.”",
+  "opciones": [
+   "to hand back",
+   "on hand",
+   "wear and tear",
+   "open-ended"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Renting Things",
+  "teoria": "v-renting",
+  "explicacion": "**to hand back** (phrasal verb) = devolver. To return something to the person or place you got it from.\n\n*Just **hand back** the keys at reception when you're done.*"
+ }
+]

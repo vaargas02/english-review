@@ -1,0 +1,66 @@
+{
+ "n": 6,
+ "slug": "renting",
+ "lesson": "Renting Things",
+ "type": "Speaking",
+ "skill": "Signposting a presentation and handling questions",
+ "words": [
+  {
+   "w": "a lease",
+   "pos": "noun",
+   "es": "contrato de alquiler",
+   "def": "a written agreement to use something (a car, property) for a set period in exchange for payment",
+   "ex": "Read the {lease} carefully before you sign: some clauses are easy to miss."
+  },
+  {
+   "w": "to damage",
+   "pos": "verb",
+   "es": "dañar",
+   "def": "to harm or break something so it is less useful or valuable",
+   "ex": "If you {damage} the item, you may lose your deposit."
+  },
+  {
+   "w": "on hand",
+   "pos": "adjective",
+   "es": "disponible",
+   "def": "ready and available to use or collect right now",
+   "ex": "They said there were still a few vans {on hand} for the weekend."
+  },
+  {
+   "w": "to collect",
+   "pos": "verb",
+   "es": "recoger",
+   "def": "to go somewhere and get something that is waiting for you",
+   "ex": "You can {collect} the keys from the front desk after two o'clock."
+  },
+  {
+   "w": "a penalty",
+   "pos": "noun",
+   "es": "penalización / recargo",
+   "def": "an extra charge you pay for breaking a rule",
+   "ex": "There's a {penalty} if you return the car late."
+  },
+  {
+   "w": "wear and tear",
+   "pos": "collocation",
+   "es": "desgaste (por uso normal)",
+   "def": "gradual damage from normal everyday use",
+   "ex": "Some {wear and tear} is expected, but big scratches are not."
+  },
+  {
+   "w": "open-ended",
+   "pos": "adjective",
+   "es": "sin fecha fija / abierto",
+   "def": "not fixed to a strict end date or set conditions",
+   "ex": "They offer an {open-ended} hire plan, so you can keep the car as long as you need."
+  },
+  {
+   "w": "to hand back",
+   "pos": "phrasal verb",
+   "es": "devolver",
+   "def": "to return something to the person or place you got it from",
+   "ex": "Just {hand back} the keys at reception when you're done."
+  }
+ ],
+ "phrases": []
+}

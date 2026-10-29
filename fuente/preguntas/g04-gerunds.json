@@ -1,0 +1,182 @@
+[
+ {
+  "id": "g-ger-001",
+  "enunciado": "“I enjoy ___ local food.”",
+  "opciones": [
+   "trying",
+   "to try",
+   "try",
+   "tried"
+  ],
+  "correcta": 0,
+  "explicacion": "Enjoy is always followed by -ing. Others like it: avoid, finish, mind, miss, suggest, keep.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-002",
+  "enunciado": "“They plan ___ Rome next spring.”",
+  "opciones": [
+   "to visit",
+   "visiting",
+   "visit",
+   "visited"
+  ],
+  "correcta": 0,
+  "explicacion": "Plan takes the infinitive. Same for agree, decide, expect, hope, intend, promise, refuse, want.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-003",
+  "enunciado": "“I'm looking forward to ___ Japan.”",
+  "opciones": [
+   "visiting",
+   "visit",
+   "to visit",
+   "visited"
+  ],
+  "correcta": 0,
+  "explicacion": "In look forward to, to is a preposition, and prepositions are followed by -ing.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-004",
+  "enunciado": "“___ is my favourite hobby.”",
+  "opciones": [
+   "Travelling",
+   "To travelling",
+   "Travel to",
+   "Travelled"
+  ],
+  "correcta": 0,
+  "explicacion": "A gerund can be the subject of a sentence.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-005",
+  "enunciado": "“We went to the market ___ food for the trip.”",
+  "opciones": [
+   "to buy",
+   "for buying",
+   "buying",
+   "for buy"
+  ],
+  "correcta": 0,
+  "explicacion": "Purpose = to + infinitive (para comprar). Not for + -ing.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-006",
+  "enunciado": "“He spent hours ___ the city.”",
+  "opciones": [
+   "exploring",
+   "to explore",
+   "explore",
+   "explored"
+  ],
+  "correcta": 0,
+  "explicacion": "Spend / waste + time or money + -ing.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-007",
+  "enunciado": "“He told me ___ my bags early.”",
+  "opciones": [
+   "to pack",
+   "packing",
+   "pack",
+   "that pack"
+  ],
+  "correcta": 0,
+  "explicacion": "Verb + person + infinitive: tell, ask, advise, encourage, want.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-008",
+  "enunciado": "“It's exciting ___ a trip.”",
+  "opciones": [
+   "to plan",
+   "planning",
+   "plan",
+   "for plan"
+  ],
+  "correcta": 0,
+  "explicacion": "After adjectives (exciting, easy, difficult, important, nice) we use to + infinitive.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-009",
+  "enunciado": "“I stopped ___ the view.” (I paused my walk in order to look)",
+  "opciones": [
+   "to admire",
+   "admiring",
+   "admire",
+   "admired"
+  ],
+  "correcta": 0,
+  "explicacion": "Stop + to = stop in order to do something. Stop + -ing = no longer do it.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-010",
+  "enunciado": "“She finally stopped ___.” (she quit the habit)",
+  "opciones": [
+   "smoking",
+   "to smoke",
+   "smoke",
+   "to smoking"
+  ],
+  "correcta": 0,
+  "explicacion": "Stop + -ing = finish an activity or habit.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-011",
+  "enunciado": "“Do you fancy ___ out tonight?”",
+  "opciones": [
+   "going",
+   "to go",
+   "go",
+   "to going"
+  ],
+  "correcta": 0,
+  "explicacion": "Fancy (= feel like) takes -ing.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ },
+ {
+  "id": "g-ger-012",
+  "enunciado": "“She refused ___ the contract.”",
+  "opciones": [
+   "to sign",
+   "signing",
+   "sign",
+   "to signing"
+  ],
+  "correcta": 0,
+  "explicacion": "Refuse is followed by the infinitive.",
+  "tema": "Grammar",
+  "subtema": "Gerunds and infinitives",
+  "teoria": "g-gerunds"
+ }
+]

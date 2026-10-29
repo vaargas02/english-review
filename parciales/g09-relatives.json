@@ -1,0 +1,77 @@
+[
+ {
+  "id": "g-rel-001",
+  "enunciado": "“She's the musician ___ writes all her songs.”",
+  "opciones": [
+   "who",
+   "which",
+   "what",
+   "where"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *She's the musician who writes all her songs.*\n\nWho for people.",
+  "tema": "Grammar",
+  "subtema": "Relative pronouns: who / that",
+  "teoria": "g-relatives"
+ },
+ {
+  "id": "g-rel-002",
+  "enunciado": "“I love the kind of music ___ tells a story.”",
+  "opciones": [
+   "that",
+   "who",
+   "what",
+   "whose"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I love the kind of music that tells a story.*\n\nThat (or which) for things.",
+  "tema": "Grammar",
+  "subtema": "Relative pronouns: who / that",
+  "teoria": "g-relatives"
+ },
+ {
+  "id": "g-rel-003",
+  "enunciado": "“He's a friend ___ plays in a band.”",
+  "opciones": [
+   "who",
+   "which",
+   "what",
+   "when"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *He's a friend who plays in a band.*\n\nA friend is a person, so who.",
+  "tema": "Grammar",
+  "subtema": "Relative pronouns: who / that",
+  "teoria": "g-relatives"
+ },
+ {
+  "id": "g-rel-004",
+  "enunciado": "Join the sentences: “It's a song. You can't stop singing it.”",
+  "opciones": [
+   "It's the kind of song that you can't stop singing.",
+   "It's the kind of song that you can't stop singing it.",
+   "It's the kind of song who you can't stop singing.",
+   "It's the kind of song what you can't stop singing."
+  ],
+  "correcta": 0,
+  "explicacion": "The relative pronoun replaces the object it, so we don't repeat it.",
+  "tema": "Grammar",
+  "subtema": "Relative pronouns: who / that",
+  "teoria": "g-relatives"
+ },
+ {
+  "id": "g-rel-005",
+  "enunciado": "“They're the friends ___ always listen to music together.”",
+  "opciones": [
+   "who",
+   "which",
+   "what",
+   "whom of"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *They're the friends who always listen to music together.*\n\nPeople, so who (that is also possible in informal speech).",
+  "tema": "Grammar",
+  "subtema": "Relative pronouns: who / that",
+  "teoria": "g-relatives"
+ }
+]

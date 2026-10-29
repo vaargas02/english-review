@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-plans-sort-something-out-d",
+  "enunciado": "Which word or phrase means: “to deal with a problem and find a solution”?",
+  "opciones": [
+   "to sort something out",
+   "to make alternative arrangements",
+   "unreliable",
+   "a hassle"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**to sort something out** (verb phrase) = solucionar / arreglar. To deal with a problem and find a solution.\n\n*I've been trying to **sort out** the booking all morning.*"
+ },
+ {
+  "id": "v-plans-sort-something-out-g",
+  "enunciado": "Complete the sentence (the form may change): “I've been trying to _____ the booking all morning.”",
+  "opciones": [
+   "to sort something out",
+   "to make alternative arrangements",
+   "unreliable",
+   "a hassle"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**to sort something out** (verb phrase) = solucionar / arreglar. To deal with a problem and find a solution.\n\n*I've been trying to **sort out** the booking all morning.*"
+ },
+ {
+  "id": "v-plans-let-someone-down-d",
+  "enunciado": "Which word or phrase means: “to disappoint someone by not doing what you promised”?",
+  "opciones": [
+   "to let someone down",
+   "fully booked",
+   "a hassle",
+   "unreliable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**to let someone down** (phrasal verb) = decepcionar / fallar a alguien. To disappoint someone by not doing what you promised.\n\n*The venue **let us down** at the last minute.*"
+ },
+ {
+  "id": "v-plans-let-someone-down-g",
+  "enunciado": "Complete the sentence (the form may change): “The venue _____ at the last minute.”",
+  "opciones": [
+   "to let someone down",
+   "fully booked",
+   "a hassle",
+   "unreliable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**to let someone down** (phrasal verb) = decepcionar / fallar a alguien. To disappoint someone by not doing what you promised.\n\n*The venue **let us down** at the last minute.*"
+ },
+ {
+  "id": "v-plans-unreliable-d",
+  "enunciado": "Which word or phrase means: “cannot be trusted to do what is expected”?",
+  "opciones": [
+   "unreliable",
+   "fully booked",
+   "a hassle",
+   "to let someone down"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**unreliable** (adjective) = poco fiable. Cannot be trusted to do what is expected.\n\n*The booking system has been really **unreliable** lately.*"
+ },
+ {
+  "id": "v-plans-unreliable-g",
+  "enunciado": "Complete the sentence (the form may change): “The booking system has been really _____ lately.”",
+  "opciones": [
+   "unreliable",
+   "fully booked",
+   "a hassle",
+   "to let someone down"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**unreliable** (adjective) = poco fiable. Cannot be trusted to do what is expected.\n\n*The booking system has been really **unreliable** lately.*"
+ },
+ {
+  "id": "v-plans-hassle-d",
+  "enunciado": "Which word or phrase means: “something annoying that causes extra trouble or effort”?",
+  "opciones": [
+   "a hassle",
+   "a booking fee",
+   "unreliable",
+   "at short notice"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**a hassle** (noun) = un fastidio / un lío. Something annoying that causes extra trouble or effort.\n\n*Having to rearrange everything at the last minute was a real **hassle**.*"
+ },
+ {
+  "id": "v-plans-hassle-g",
+  "enunciado": "Complete the sentence (the form may change): “Having to rearrange everything at the last minute was a real _____.”",
+  "opciones": [
+   "a hassle",
+   "a booking fee",
+   "unreliable",
+   "at short notice"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**a hassle** (noun) = un fastidio / un lío. Something annoying that causes extra trouble or effort.\n\n*Having to rearrange everything at the last minute was a real **hassle**.*"
+ },
+ {
+  "id": "v-plans-make-alternative-arrangements-d",
+  "enunciado": "Which word or phrase means: “to organise a different plan when the first one fails”?",
+  "opciones": [
+   "to make alternative arrangements",
+   "to sort something out",
+   "fully booked",
+   "unreliable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**to make alternative arrangements** (verb phrase) = buscar otra alternativa / organizar un plan B. To organise a different plan when the first one fails.\n\n*We had to **make alternative arrangements** at very short notice.*"
+ },
+ {
+  "id": "v-plans-make-alternative-arrangements-g",
+  "enunciado": "Complete the sentence (the form may change): “We had to _____ at very short notice.”",
+  "opciones": [
+   "to make alternative arrangements",
+   "to sort something out",
+   "fully booked",
+   "unreliable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**to make alternative arrangements** (verb phrase) = buscar otra alternativa / organizar un plan B. To organise a different plan when the first one fails.\n\n*We had to **make alternative arrangements** at very short notice.*"
+ },
+ {
+  "id": "v-plans-fully-booked-d",
+  "enunciado": "Which word or phrase means: “when all spaces or seats have already been taken”?",
+  "opciones": [
+   "fully booked",
+   "unreliable",
+   "a hassle",
+   "a booking fee"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**fully booked** (adjective) = completo (sin plazas). When all spaces or seats have already been taken.\n\n*I'm afraid we're **fully booked** that evening.*"
+ },
+ {
+  "id": "v-plans-fully-booked-g",
+  "enunciado": "Complete the sentence (the form may change): “I'm afraid we're _____ that evening.”",
+  "opciones": [
+   "fully booked",
+   "unreliable",
+   "a hassle",
+   "a booking fee"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**fully booked** (adjective) = completo (sin plazas). When all spaces or seats have already been taken.\n\n*I'm afraid we're **fully booked** that evening.*"
+ },
+ {
+  "id": "v-plans-booking-fee-d",
+  "enunciado": "Which word or phrase means: “an extra amount you pay when you reserve something, on top of the price”?",
+  "opciones": [
+   "a booking fee",
+   "a hassle",
+   "to make alternative arrangements",
+   "at short notice"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**a booking fee** (noun) = gastos de reserva. An extra amount you pay when you reserve something, on top of the price.\n\n*There's a **booking fee** of two pounds if you buy online.*"
+ },
+ {
+  "id": "v-plans-booking-fee-g",
+  "enunciado": "Complete the sentence (the form may change): “There's a _____ of two pounds if you buy online.”",
+  "opciones": [
+   "a booking fee",
+   "a hassle",
+   "to make alternative arrangements",
+   "at short notice"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**a booking fee** (noun) = gastos de reserva. An extra amount you pay when you reserve something, on top of the price.\n\n*There's a **booking fee** of two pounds if you buy online.*"
+ },
+ {
+  "id": "v-plans-at-short-notice-d",
+  "enunciado": "Which word or phrase means: “with very little warning or time to prepare”?",
+  "opciones": [
+   "at short notice",
+   "a booking fee",
+   "to let someone down",
+   "unreliable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**at short notice** (expression) = con poca antelación. With very little warning or time to prepare.\n\n*They cancelled the reservation **at very short notice**.*"
+ },
+ {
+  "id": "v-plans-at-short-notice-g",
+  "enunciado": "Complete the sentence (the form may change): “They cancelled the reservation _____.”",
+  "opciones": [
+   "at short notice",
+   "a booking fee",
+   "to let someone down",
+   "unreliable"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Making Plans with Friends",
+  "teoria": "v-plans",
+  "explicacion": "**at short notice** (expression) = con poca antelación. With very little warning or time to prepare.\n\n*They cancelled the reservation **at very short notice**.*"
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "id": "g-vprep-001",
+  "enunciado": "“You should protect your skin ___ the sun.”",
+  "opciones": [
+   "from",
+   "of",
+   "against to",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *You should protect your skin from the sun.*\n\nProtect (sb/sth) from.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-002",
+  "enunciado": "“Has he recovered ___ the accident yet?”",
+  "opciones": [
+   "from",
+   "of",
+   "for",
+   "after"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *Has he recovered from the accident yet?*\n\nRecover from. Also suffer from.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-003",
+  "enunciado": "“I believe ___ the power of positivity.”",
+  "opciones": [
+   "in",
+   "on",
+   "to",
+   "at"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I believe in the power of positivity.*\n\nBelieve in. Also succeed in, participate in.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-004",
+  "enunciado": "“The kitchen smelled ___ freshly baked bread.”",
+  "opciones": [
+   "of",
+   "to",
+   "like of",
+   "from"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *The kitchen smelled of freshly baked bread.*\n\nSmell of. Also die of (old age).",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-005",
+  "enunciado": "“The decision will depend ___ the test results.”",
+  "opciones": [
+   "on",
+   "of",
+   "from",
+   "in"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *The decision will depend on the test results.*\n\nDepend on, rely on, count on, agree on (a plan).",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-006",
+  "enunciado": "“Nobody responded ___ my complaint.”",
+  "opciones": [
+   "to",
+   "at",
+   "on",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *Nobody responded to my complaint.*\n\nRespond to. Also listen to, talk to, introduce sb to.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-007",
+  "enunciado": "“My assistant will provide you ___ more information.”",
+  "opciones": [
+   "with",
+   "of",
+   "for",
+   "about"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *My assistant will provide you with more information.*\n\nProvide someone with something.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-008",
+  "enunciado": "“She apologised ___ me ___ being late.”",
+  "opciones": [
+   "to / for",
+   "for / to",
+   "to / of",
+   "with / for"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *She apologised to me for being late.*\n\nApologise to a person for a thing.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-009",
+  "enunciado": "“I agree ___ everything you've said.” vs “We finally agreed ___ a plan.”",
+  "opciones": [
+   "with / on",
+   "on / with",
+   "to / on",
+   "with / with"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I agree with everything you've said.*\n\nAgree with a person or opinion; agree on a decision both sides reach.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-010",
+  "enunciado": "“We're finding it difficult to deal ___ the stress.”",
+  "opciones": [
+   "with",
+   "about",
+   "on",
+   "to"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *We're finding it difficult to deal with the stress.*\n\nDeal with = manage a problem.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-011",
+  "enunciado": "“I applied ___ the job but I didn't get it.”",
+  "opciones": [
+   "for",
+   "to",
+   "at",
+   "on"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I applied for the job but I didn't get it.*\n\nApply for a job, a place, a visa. Also wait for, ask for, prepare for.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-012",
+  "enunciado": "“I suffer ___ allergies.”",
+  "opciones": [
+   "from",
+   "of",
+   "with",
+   "by"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I suffer from allergies.*\n\nSuffer from an illness or problem.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ }
+]

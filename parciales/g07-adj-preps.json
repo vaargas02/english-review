@@ -1,0 +1,212 @@
+[
+ {
+  "id": "g-aprep-001",
+  "enunciado": "“She's excellent ___ problem-solving.”",
+  "opciones": [
+   "at",
+   "in",
+   "on",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *She's excellent at problem-solving.*\n\nSkills take at: good / bad / excellent / terrible at; an expert / beginner at.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-002",
+  "enunciado": "“He's passionate ___ modern art.”",
+  "opciones": [
+   "about",
+   "for",
+   "with",
+   "on"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *He's passionate about modern art.*\n\nFeelings and information take about: worried, nervous, enthusiastic, passionate about.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-003",
+  "enunciado": "“They're pleased ___ the results.”",
+  "opciones": [
+   "with",
+   "about",
+   "of",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *They're pleased with the results.*\n\nPleased / happy / angry / frustrated / patient with.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-004",
+  "enunciado": "“He's afraid ___ public speaking.”",
+  "opciones": [
+   "of",
+   "from",
+   "about",
+   "to"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *He's afraid of public speaking.*\n\nAfraid, proud, tired, capable, fond of.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-005",
+  "enunciado": "“She's proud ___ her achievements.”",
+  "opciones": [
+   "of",
+   "for",
+   "about",
+   "with"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *She's proud of her achievements.*\n\nProud of.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-006",
+  "enunciado": "“I'm interested ___ this project.”",
+  "opciones": [
+   "in",
+   "on",
+   "about",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I'm interested in this project.*\n\nInterested in; also an interest in, involved in, successful in.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-007",
+  "enunciado": "“She's sensitive ___ criticism.”",
+  "opciones": [
+   "to",
+   "about",
+   "with",
+   "of"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *She's sensitive to criticism.*\n\nSensitive / responsive to; sensitivity / response to.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-008",
+  "enunciado": "“I was impressed ___ her speech.”",
+  "opciones": [
+   "by",
+   "of",
+   "with to",
+   "from"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I was impressed by her speech.*\n\nReaction adjectives take by: impressed, affected, surprised, influenced by.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-009",
+  "enunciado": "“The effect ___ the new policy was significant.”",
+  "opciones": [
+   "of",
+   "by",
+   "from",
+   "at"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *The effect of the new policy was significant.*\n\nThe matching nouns take of: effect, impact, impression, influence of. Never “the effect by”.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-010",
+  "enunciado": "“I have doubts ___ this decision.”",
+  "opciones": [
+   "about",
+   "of",
+   "on",
+   "with"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *I have doubts about this decision.*\n\nNouns of information or worry take about: doubts, concerns, details, facts about.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-011",
+  "enunciado": "“He has problems ___ time management.”",
+  "opciones": [
+   "with",
+   "about",
+   "in",
+   "of"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *He has problems with time management.*\n\nProblem / difficulty / experience / relationship with.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-012",
+  "enunciado": "“There's a strong possibility ___ promotion.”",
+  "opciones": [
+   "of",
+   "for",
+   "to",
+   "about"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *There's a strong possibility of promotion.*\n\nPossibility / chance / fear / habit of.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-013",
+  "enunciado": "“Their response ___ the changes was positive.”",
+  "opciones": [
+   "to",
+   "of",
+   "about",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *Their response to the changes was positive.*\n\nResponse to.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ },
+ {
+  "id": "g-aprep-014",
+  "enunciado": "“The company's success ___ foreign markets is impressive.”",
+  "opciones": [
+   "in",
+   "at",
+   "on",
+   "of"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *The company's success in foreign markets is impressive.*\n\nSuccess in a field or activity.",
+  "tema": "Grammar",
+  "subtema": "Adjectives and nouns + prepositions",
+  "teoria": "g-adj-preps"
+ }
+]

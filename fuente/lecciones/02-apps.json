@@ -1,0 +1,82 @@
+{
+ "n": 2,
+ "slug": "apps",
+ "lesson": "Using Apps and Websites",
+ "type": "Speaking",
+ "skill": "Signposting a presentation and handling questions",
+ "words": [
+  {
+   "w": "to find your way around",
+   "pos": "verb",
+   "es": "aprender a moverse por algo / orientarse",
+   "def": "to learn how to use something and move through it without getting confused",
+   "ex": "It took me a few days to {find my way around} the new app, but now I love it.",
+   "syn": "to get to grips with",
+   "opp": "to get lost in"
+  },
+  {
+   "w": "user-friendly",
+   "pos": "adjective",
+   "es": "fácil de usar",
+   "def": "easy and pleasant to use",
+   "ex": "The new design is much more {user-friendly}.",
+   "syn": "intuitive",
+   "opp": "confusing"
+  },
+  {
+   "w": "to flick through",
+   "pos": "phrasal verb",
+   "es": "echar un vistazo rápido / pasar rápido",
+   "def": "to move quickly through content, looking at things briefly",
+   "ex": "I was just {flicking through} my feed when I came across that article.",
+   "syn": "to skim through",
+   "opp": "to read carefully"
+  },
+  {
+   "w": "a function",
+   "pos": "noun",
+   "es": "función",
+   "def": "a specific thing an app or device is designed to do",
+   "ex": "The search {function} is really handy: it finds anything in seconds.",
+   "syn": "an option",
+   "opp": "a flaw"
+  },
+  {
+   "w": "to crash",
+   "pos": "verb",
+   "es": "colgarse / bloquearse",
+   "def": "to suddenly stop working",
+   "ex": "The app {crashed} just as I was about to pay.",
+   "syn": "to freeze",
+   "opp": "to run smoothly"
+  },
+  {
+   "w": "dependable",
+   "pos": "adjective",
+   "es": "fiable",
+   "def": "always working the way you expect, without letting you down",
+   "ex": "I switched to a more {dependable} app after the old one kept crashing.",
+   "syn": "trustworthy",
+   "opp": "unreliable"
+  },
+  {
+   "w": "a pop-up",
+   "pos": "noun",
+   "es": "ventana emergente",
+   "def": "a window that appears suddenly on screen",
+   "ex": "A {pop-up} appeared asking me to subscribe.",
+   "syn": "a notification window",
+   "opp": "a clean screen"
+  },
+  {
+   "w": "to update",
+   "pos": "verb",
+   "es": "actualizar",
+   "def": "to install the latest version of an app",
+   "ex": "I always {update} my apps on Sunday evening.",
+   "syn": "to upgrade",
+   "opp": "to ignore"
+  }
+ ],
+ "phrases": []
+}

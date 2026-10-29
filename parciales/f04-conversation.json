@@ -1,0 +1,92 @@
+[
+ {
+  "id": "f-conv-001",
+  "enunciado": "“I always check the salary first.” — Agree briefly:",
+  "opciones": [
+   "So do I.",
+   "Neither do I.",
+   "So I do.",
+   "Me neither."
+  ],
+  "correcta": 0,
+  "explicacion": "Agreeing with a positive sentence: So do I. With a negative one: Neither do I.",
+  "tema": "Functional language",
+  "subtema": "Keeping a conversation going",
+  "teoria": "f-conversation"
+ },
+ {
+  "id": "f-conv-002",
+  "enunciado": "“I don't think I'm suitable for customer service.” — Agree briefly:",
+  "opciones": [
+   "Neither do I.",
+   "So do I.",
+   "So don't I.",
+   "Neither I do."
+  ],
+  "correcta": 0,
+  "explicacion": "A negative sentence takes Neither do I (or Me neither).",
+  "tema": "Functional language",
+  "subtema": "Keeping a conversation going",
+  "teoria": "f-conversation"
+ },
+ {
+  "id": "f-conv-003",
+  "enunciado": "“It's a really competitive role, ___?”",
+  "opciones": [
+   "isn't it",
+   "is it",
+   "doesn't it",
+   "aren't it"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *It's a really competitive role, isn't it?*\n\nPositive statement → negative tag, with the same auxiliary (is → isn't).",
+  "tema": "Functional language",
+  "subtema": "Keeping a conversation going",
+  "teoria": "f-conversation"
+ },
+ {
+  "id": "f-conv-004",
+  "enunciado": "“You didn't apply, ___?”",
+  "opciones": [
+   "did you",
+   "didn't you",
+   "do you",
+   "have you"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *You didn't apply, did you?*\n\nNegative statement → positive tag: didn't → did you?",
+  "tema": "Functional language",
+  "subtema": "Keeping a conversation going",
+  "teoria": "f-conversation"
+ },
+ {
+  "id": "f-conv-005",
+  "enunciado": "What should you do after reacting (“That sounds tough!”)?",
+  "opciones": [
+   "Ask a follow-up question",
+   "Change the topic",
+   "Give a long monologue",
+   "End the conversation"
+  ],
+  "correcta": 0,
+  "explicacion": "React, then ask a follow-up: What did you do? How did that feel?",
+  "tema": "Functional language",
+  "subtema": "Keeping a conversation going",
+  "teoria": "f-conversation"
+ },
+ {
+  "id": "f-conv-006",
+  "enunciado": "Which phrase hands the conversation back to your partner?",
+  "opciones": [
+   "What about you?",
+   "So to sum up.",
+   "According to you.",
+   "Moving on to."
+  ],
+  "correcta": 0,
+  "explicacion": "What about you? invites the other person to share.",
+  "tema": "Functional language",
+  "subtema": "Keeping a conversation going",
+  "teoria": "f-conversation"
+ }
+]

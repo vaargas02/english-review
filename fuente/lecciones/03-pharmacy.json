@@ -1,0 +1,66 @@
+{
+ "n": 3,
+ "slug": "pharmacy",
+ "lesson": "Buying Medicine at the Pharmacy",
+ "type": "Speaking",
+ "skill": "Summarising information from several sources",
+ "words": [
+  {
+   "w": "a warning sign",
+   "pos": "noun",
+   "es": "señal de alarma",
+   "def": "something you notice that tells you something might be wrong",
+   "ex": "One of the early {warning signs} is a high temperature."
+  },
+  {
+   "w": "a flare-up",
+   "pos": "noun",
+   "es": "brote / reagudización",
+   "def": "a sudden return or worsening of a symptom or condition",
+   "ex": "My skin gets a {flare-up} every time I use that soap."
+  },
+  {
+   "w": "a remedy",
+   "pos": "noun",
+   "es": "remedio",
+   "def": "something that treats or cures a problem",
+   "ex": "Honey and lemon is a popular home {remedy} for a sore throat."
+  },
+  {
+   "w": "a doctor's note",
+   "pos": "noun",
+   "es": "receta / justificante médico",
+   "def": "an official document from a doctor that lets you get a specific medicine",
+   "ex": "You'll need a {doctor's note} to get that one: it's not available over the counter."
+  },
+  {
+   "w": "effective",
+   "pos": "adjective",
+   "es": "eficaz",
+   "def": "works well and produces the result you want",
+   "ex": "This spray is really {effective} for a blocked nose."
+  },
+  {
+   "w": "to ease up",
+   "pos": "phrasal verb",
+   "es": "aliviarse / remitir",
+   "def": "to become less painful or less strong",
+   "ex": "The headache should {ease up} after a couple of hours."
+  },
+  {
+   "w": "to stay away from",
+   "pos": "verb",
+   "es": "evitar / mantenerse alejado de",
+   "def": "to not use or go near something because it could be harmful",
+   "ex": "You should {stay away from} alcohol while you're taking this."
+  },
+  {
+   "w": "over the counter",
+   "pos": "collocation",
+   "es": "sin receta",
+   "def": "(medicine) that you can buy without a prescription",
+   "ex": "Most cold remedies are available {over the counter}."
+  }
+ ],
+ "phrases": []
+}

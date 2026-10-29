@@ -1,0 +1,66 @@
+{
+ "n": 16,
+ "slug": "gadgets",
+ "lesson": "Everyday Gadgets",
+ "type": "Speaking",
+ "skill": "Persuading and challenging",
+ "words": [
+  {
+   "w": "to upgrade",
+   "pos": "verb",
+   "es": "renovar / pasar a un modelo mejor",
+   "def": "to replace something with a newer or better version",
+   "ex": "I {upgrade} my phone every two years."
+  },
+  {
+   "w": "outdated",
+   "pos": "adjective",
+   "es": "anticuado / obsoleto",
+   "def": "no longer modern or useful because something newer exists",
+   "ex": "My old sat-nav feels completely {outdated} now."
+  },
+  {
+   "w": "handy",
+   "pos": "adjective",
+   "es": "práctico / útil",
+   "def": "useful in a practical, everyday way",
+   "ex": "A small torch on your keyring is surprisingly {handy}."
+  },
+  {
+   "w": "a smart device",
+   "pos": "noun",
+   "es": "dispositivo inteligente",
+   "def": "a gadget that connects to the internet and can be controlled remotely",
+   "ex": "A {smart device} like a speaker can answer questions and control your lights."
+  },
+  {
+   "w": "to drain",
+   "pos": "verb",
+   "es": "agotar / consumir (batería)",
+   "def": "to use up power or energy until little or none is left",
+   "ex": "Leaving your GPS on all day will {drain} your battery quickly."
+  },
+  {
+   "w": "cluttered",
+   "pos": "adjective",
+   "es": "abarrotado / desordenado",
+   "def": "filled with too many things, making it messy",
+   "ex": "My desk is {cluttered} with cables and old gadgets I never use."
+  },
+  {
+   "w": "worth the money",
+   "pos": "collocation",
+   "es": "que vale lo que cuesta",
+   "def": "good enough to justify the price",
+   "ex": "A good pair of wireless earbuds is absolutely {worth the money}."
+  },
+  {
+   "w": "a feature",
+   "pos": "noun",
+   "es": "característica / función",
+   "def": "a specific function or quality a gadget has",
+   "ex": "The best {feature} on my smartwatch is the sleep tracker."
+  }
+ ],
+ "phrases": []
+}

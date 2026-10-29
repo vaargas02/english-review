@@ -1,0 +1,82 @@
+{
+ "n": 13,
+ "slug": "food-delivery",
+ "lesson": "Ordering Food Delivery",
+ "type": "Speaking",
+ "skill": "Describing an incident and your feelings",
+ "words": [
+  {
+   "w": "to raise a concern",
+   "pos": "verb",
+   "es": "plantear una preocupación / queja",
+   "def": "to clearly bring attention to a worry or problem so it can be dealt with",
+   "ex": "It's important to {raise your concerns} about poor service.",
+   "syn": "to make a complaint",
+   "opp": "to praise"
+  },
+  {
+   "w": "frustrating",
+   "pos": "adjective",
+   "es": "frustrante",
+   "def": "making you annoyed because things are not going the way you want",
+   "ex": "It was {frustrating} to wait an hour for a cold meal.",
+   "syn": "annoying",
+   "opp": "satisfying"
+  },
+  {
+   "w": "a substitute",
+   "pos": "noun",
+   "es": "sustituto",
+   "def": "something given in place of what you originally wanted",
+   "ex": "They sent a {substitute} dish because my first choice was sold out.",
+   "syn": "a replacement",
+   "opp": "the original"
+  },
+  {
+   "w": "prompt",
+   "pos": "adjective",
+   "es": "rápido / puntual",
+   "def": "happening quickly, at the right time",
+   "ex": "The delivery was {prompt}: it arrived in under twenty minutes.",
+   "syn": "quick",
+   "opp": "delayed"
+  },
+  {
+   "w": "to resolve",
+   "pos": "verb",
+   "es": "resolver / solucionar",
+   "def": "to find a solution to a problem",
+   "ex": "The manager promised to {resolve} the issue with our missing order straight away.",
+   "syn": "to sort out",
+   "opp": "to ignore"
+  },
+  {
+   "w": "disappointed",
+   "pos": "adjective",
+   "es": "decepcionado",
+   "def": "sad because something was not as good as you hoped",
+   "ex": "I was {disappointed} when the restaurant got my order wrong.",
+   "syn": "let down",
+   "opp": "pleased"
+  },
+  {
+   "w": "to estimate",
+   "pos": "verb",
+   "es": "estimar / calcular",
+   "def": "to say approximately how long something will take or cost",
+   "ex": "The app {estimated} a thirty-minute wait, but it took over an hour.",
+   "syn": "to predict",
+   "opp": "to confirm exactly"
+  },
+  {
+   "w": "to make a complaint",
+   "pos": "collocation",
+   "es": "poner una reclamación",
+   "def": "to formally tell a company that something went wrong",
+   "ex": "I had to {make a complaint} because three items were missing.",
+   "syn": "to raise an issue",
+   "opp": "to give praise"
+  }
+ ],
+ "phrases": []
+}

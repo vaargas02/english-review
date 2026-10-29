@@ -1,0 +1,122 @@
+[
+ {
+  "id": "x-mis-001",
+  "enunciado": "“I hurt my knee playing football.” — In English, the knee problem is…",
+  "opciones": [
+   "an injury",
+   "a lesion",
+   "a lesson",
+   "a wound up"
+  ],
+  "correcta": 0,
+  "explicacion": "Lesión (deporte) = injury. Lesion is a narrow medical term for abnormal tissue.",
+  "tema": "Mistakes & false friends",
+  "subtema": "Mistakes & false friends",
+  "teoria": "x-mistakes"
+ },
+ {
+  "id": "x-mis-002",
+  "enunciado": "“Me cobraron 20 euros” in natural English:",
+  "opciones": [
+   "They charged me 20 euros.",
+   "They cobbed me 20 euros.",
+   "They paid me 20 euros.",
+   "They collected me 20 euros."
+  ],
+  "correcta": 0,
+  "explicacion": "Cobrar = to charge (someone money). I was charged 20 euros.",
+  "tema": "Mistakes & false friends",
+  "subtema": "Mistakes & false friends",
+  "teoria": "x-mistakes"
+ },
+ {
+  "id": "x-mis-003",
+  "enunciado": "“My favourite song is ___ in the car.”",
+  "opciones": [
+   "playing",
+   "running",
+   "working",
+   "going"
+  ],
+  "correcta": 0,
+  "explicacion": "Songs and music play; engines and machines run.",
+  "tema": "Mistakes & false friends",
+  "subtema": "Mistakes & false friends",
+  "teoria": "x-mistakes"
+ },
+ {
+  "id": "x-mis-004",
+  "enunciado": "“I've started ___ for the half marathon.”",
+  "opciones": [
+   "a training plan",
+   "a training",
+   "trainings",
+   "a train"
+  ],
+  "correcta": 0,
+  "explicacion": "Training is uncountable: say a training plan / programme, or just training.",
+  "tema": "Mistakes & false friends",
+  "subtema": "Mistakes & false friends",
+  "teoria": "x-mistakes"
+ },
+ {
+  "id": "x-mis-005",
+  "enunciado": "“Estaba consternada” in English:",
+  "opciones": [
+   "She was dismayed.",
+   "She was concerned.",
+   "She was considered.",
+   "She was consterned."
+  ],
+  "correcta": 0,
+  "explicacion": "Consternado = dismayed (false friend). Concerned means worried or involved.",
+  "tema": "Mistakes & false friends",
+  "subtema": "Mistakes & false friends",
+  "teoria": "x-mistakes"
+ },
+ {
+  "id": "x-mis-006",
+  "enunciado": "“The flight was cancelled ___ the storm.”",
+  "opciones": [
+   "due to",
+   "due",
+   "is due to",
+   "due for"
+  ],
+  "correcta": 0,
+  "explicacion": "Due to + noun = because of. Be due to + verb = scheduled (The flight is due to leave at six).",
+  "tema": "Mistakes & false friends",
+  "subtema": "Mistakes & false friends",
+  "teoria": "x-mistakes"
+ },
+ {
+  "id": "x-mis-007",
+  "enunciado": "“Can you ___ me the time?”",
+  "opciones": [
+   "tell",
+   "say",
+   "speak",
+   "talk"
+  ],
+  "correcta": 0,
+  "explicacion": "Tell + person + something; say + something (to someone).",
+  "tema": "Mistakes & false friends",
+  "subtema": "Mistakes & false friends",
+  "teoria": "x-mistakes"
+ },
+ {
+  "id": "x-mis-008",
+  "enunciado": "Natural way to say “en poco tiempo”:",
+  "opciones": [
+   "in a short time",
+   "in few time",
+   "in little time ago",
+   "in short of time"
+  ],
+  "correcta": 0,
+  "explicacion": "In a short time / soon. *In few time* is a Spanish calque.",
+  "tema": "Mistakes & false friends",
+  "subtema": "Mistakes & false friends",
+  "teoria": "x-mistakes"
+ }
+]

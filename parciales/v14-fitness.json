@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-fitness-regime-d",
+  "enunciado": "Which word or phrase means: “a structured, regular plan of exercise followed over time”?",
+  "opciones": [
+   "a regime",
+   "a rest day",
+   "stamina",
+   "disciplined"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**a regime** (noun) = rutina / régimen (de entrenamiento). A structured, regular plan of exercise followed over time.\n\n*He followed a strict outdoor fitness **regime** every week.*"
+ },
+ {
+  "id": "v-fitness-regime-g",
+  "enunciado": "Complete the sentence (the form may change): “He followed a strict outdoor fitness _____ every week.”",
+  "opciones": [
+   "a regime",
+   "a rest day",
+   "stamina",
+   "disciplined"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**a regime** (noun) = rutina / régimen (de entrenamiento). A structured, regular plan of exercise followed over time.\n\n*He followed a strict outdoor fitness **regime** every week.*"
+ },
+ {
+  "id": "v-fitness-stamina-d",
+  "enunciado": "Which word or phrase means: “the ability to keep doing something physically demanding for a long time”?",
+  "opciones": [
+   "stamina",
+   "a rest day",
+   "a regime",
+   "to push yourself"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**stamina** (noun) = resistencia / aguante. The ability to keep doing something physically demanding for a long time.\n\n*Running long distances builds your **stamina** over time.*"
+ },
+ {
+  "id": "v-fitness-stamina-g",
+  "enunciado": "Complete the sentence (the form may change): “Running long distances builds your _____ over time.”",
+  "opciones": [
+   "stamina",
+   "a rest day",
+   "a regime",
+   "to push yourself"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**stamina** (noun) = resistencia / aguante. The ability to keep doing something physically demanding for a long time.\n\n*Running long distances builds your **stamina** over time.*"
+ },
+ {
+  "id": "v-fitness-rest-day-d",
+  "enunciado": "Which word or phrase means: “a day with no exercise so your body can recover”?",
+  "opciones": [
+   "a rest day",
+   "stamina",
+   "a regime",
+   "to keep up"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**a rest day** (noun) = día de descanso. A day with no exercise so your body can recover.\n\n*Most trainers recommend at least one **rest day** per week.*"
+ },
+ {
+  "id": "v-fitness-rest-day-g",
+  "enunciado": "Complete the sentence (the form may change): “Most trainers recommend at least one _____ per week.”",
+  "opciones": [
+   "a rest day",
+   "stamina",
+   "a regime",
+   "to keep up"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**a rest day** (noun) = día de descanso. A day with no exercise so your body can recover.\n\n*Most trainers recommend at least one **rest day** per week.*"
+ },
+ {
+  "id": "v-fitness-pace-yourself-d",
+  "enunciado": "Which word or phrase means: “to control your speed or effort so you don't get tired too quickly”?",
+  "opciones": [
+   "to pace yourself",
+   "stamina",
+   "a rest day",
+   "steadily"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**to pace yourself** (verb) = dosificarse / ir a tu ritmo. To control your speed or effort so you don't get tired too quickly.\n\n*It's important to **pace yourself** on a long hike.*"
+ },
+ {
+  "id": "v-fitness-pace-yourself-g",
+  "enunciado": "Complete the sentence (the form may change): “It's important to _____ on a long hike.”",
+  "opciones": [
+   "to pace yourself",
+   "stamina",
+   "a rest day",
+   "steadily"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**to pace yourself** (verb) = dosificarse / ir a tu ritmo. To control your speed or effort so you don't get tired too quickly.\n\n*It's important to **pace yourself** on a long hike.*"
+ },
+ {
+  "id": "v-fitness-keep-up-d",
+  "enunciado": "Which word or phrase means: “to maintain the same speed or level as someone else”?",
+  "opciones": [
+   "to keep up",
+   "a regime",
+   "steadily",
+   "stamina"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**to keep up** (phrasal verb) = seguir el ritmo. To maintain the same speed or level as someone else.\n\n*I found it hard to **keep up** with the group on the hill.*"
+ },
+ {
+  "id": "v-fitness-keep-up-g",
+  "enunciado": "Complete the sentence (the form may change): “I found it hard to _____ with the group on the hill.”",
+  "opciones": [
+   "to keep up",
+   "a regime",
+   "steadily",
+   "stamina"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**to keep up** (phrasal verb) = seguir el ritmo. To maintain the same speed or level as someone else.\n\n*I found it hard to **keep up** with the group on the hill.*"
+ },
+ {
+  "id": "v-fitness-disciplined-d",
+  "enunciado": "Which word or phrase means: “able to follow a plan reliably without giving up”?",
+  "opciones": [
+   "disciplined",
+   "to keep up",
+   "to push yourself",
+   "a regime"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**disciplined** (adjective) = disciplinado. Able to follow a plan reliably without giving up.\n\n*Being **disciplined** about your workouts leads to real long-term progress.*"
+ },
+ {
+  "id": "v-fitness-disciplined-g",
+  "enunciado": "Complete the sentence (the form may change): “Being _____ about your workouts leads to real long-term progress.”",
+  "opciones": [
+   "disciplined",
+   "to keep up",
+   "to push yourself",
+   "a regime"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**disciplined** (adjective) = disciplinado. Able to follow a plan reliably without giving up.\n\n*Being **disciplined** about your workouts leads to real long-term progress.*"
+ },
+ {
+  "id": "v-fitness-steadily-d",
+  "enunciado": "Which word or phrase means: “slowly but without stopping, at an even pace”?",
+  "opciones": [
+   "steadily",
+   "to push yourself",
+   "to keep up",
+   "a regime"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**steadily** (adverb) = de forma constante / progresiva. Slowly but without stopping, at an even pace.\n\n*Her fitness improved **steadily** over the summer.*"
+ },
+ {
+  "id": "v-fitness-steadily-g",
+  "enunciado": "Complete the sentence (the form may change): “Her fitness improved _____ over the summer.”",
+  "opciones": [
+   "steadily",
+   "to push yourself",
+   "to keep up",
+   "a regime"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**steadily** (adverb) = de forma constante / progresiva. Slowly but without stopping, at an even pace.\n\n*Her fitness improved **steadily** over the summer.*"
+ },
+ {
+  "id": "v-fitness-push-yourself-d",
+  "enunciado": "Which word or phrase means: “to make yourself work harder than feels comfortable”?",
+  "opciones": [
+   "to push yourself",
+   "to keep up",
+   "steadily",
+   "stamina"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**to push yourself** (collocation) = exigirte / esforzarte al máximo. To make yourself work harder than feels comfortable.\n\n*You need to **push yourself** a little each time to see results.*"
+ },
+ {
+  "id": "v-fitness-push-yourself-g",
+  "enunciado": "Complete the sentence (the form may change): “You need to _____ a little each time to see results.”",
+  "opciones": [
+   "to push yourself",
+   "to keep up",
+   "steadily",
+   "stamina"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Keeping Fit Outdoors",
+  "teoria": "v-fitness",
+  "explicacion": "**to push yourself** (collocation) = exigirte / esforzarte al máximo. To make yourself work harder than feels comfortable.\n\n*You need to **push yourself** a little each time to see results.*"
+ }
+]

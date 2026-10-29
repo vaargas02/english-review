@@ -1,0 +1,182 @@
+[
+ {
+  "id": "g-vprep-001",
+  "enunciado": "“You should protect your skin ___ the sun.”",
+  "opciones": [
+   "from",
+   "of",
+   "against to",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "Protect (sb/sth) from.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-002",
+  "enunciado": "“Has he recovered ___ the accident yet?”",
+  "opciones": [
+   "from",
+   "of",
+   "for",
+   "after"
+  ],
+  "correcta": 0,
+  "explicacion": "Recover from. Also suffer from.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-003",
+  "enunciado": "“I believe ___ the power of positivity.”",
+  "opciones": [
+   "in",
+   "on",
+   "to",
+   "at"
+  ],
+  "correcta": 0,
+  "explicacion": "Believe in. Also succeed in, participate in.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-004",
+  "enunciado": "“The kitchen smelled ___ freshly baked bread.”",
+  "opciones": [
+   "of",
+   "to",
+   "like of",
+   "from"
+  ],
+  "correcta": 0,
+  "explicacion": "Smell of. Also die of (old age).",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-005",
+  "enunciado": "“The decision will depend ___ the test results.”",
+  "opciones": [
+   "on",
+   "of",
+   "from",
+   "in"
+  ],
+  "correcta": 0,
+  "explicacion": "Depend on, rely on, count on, agree on (a plan).",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-006",
+  "enunciado": "“Nobody responded ___ my complaint.”",
+  "opciones": [
+   "to",
+   "at",
+   "on",
+   "for"
+  ],
+  "correcta": 0,
+  "explicacion": "Respond to. Also listen to, talk to, introduce sb to.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-007",
+  "enunciado": "“My assistant will provide you ___ more information.”",
+  "opciones": [
+   "with",
+   "of",
+   "for",
+   "about"
+  ],
+  "correcta": 0,
+  "explicacion": "Provide someone with something.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-008",
+  "enunciado": "“She apologised ___ me ___ being late.”",
+  "opciones": [
+   "to / for",
+   "for / to",
+   "to / of",
+   "with / for"
+  ],
+  "correcta": 0,
+  "explicacion": "Apologise to a person for a thing.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-009",
+  "enunciado": "“I agree ___ everything you've said.” vs “We finally agreed ___ a plan.”",
+  "opciones": [
+   "with / on",
+   "on / with",
+   "to / on",
+   "with / with"
+  ],
+  "correcta": 0,
+  "explicacion": "Agree with a person or opinion; agree on a decision both sides reach.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-010",
+  "enunciado": "“We're finding it difficult to deal ___ the stress.”",
+  "opciones": [
+   "with",
+   "about",
+   "on",
+   "to"
+  ],
+  "correcta": 0,
+  "explicacion": "Deal with = manage a problem.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-011",
+  "enunciado": "“I applied ___ the job but I didn't get it.”",
+  "opciones": [
+   "for",
+   "to",
+   "at",
+   "on"
+  ],
+  "correcta": 0,
+  "explicacion": "Apply for a job, a place, a visa. Also wait for, ask for, prepare for.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ },
+ {
+  "id": "g-vprep-012",
+  "enunciado": "“I suffer ___ allergies.”",
+  "opciones": [
+   "from",
+   "of",
+   "with",
+   "by"
+  ],
+  "correcta": 0,
+  "explicacion": "Suffer from an illness or problem.",
+  "tema": "Grammar",
+  "subtema": "Verbs + prepositions",
+  "teoria": "g-verb-preps"
+ }
+]

@@ -1,0 +1,66 @@
+{
+ "n": 5,
+ "slug": "jobs",
+ "lesson": "Job Adverts and Applications",
+ "type": "Speaking",
+ "skill": "Keeping a conversation going",
+ "words": [
+  {
+   "w": "a candidate",
+   "pos": "noun",
+   "es": "candidato/a",
+   "def": "a person who applies for a job",
+   "ex": "There were five strong {candidates} for the role."
+  },
+  {
+   "w": "a cover letter",
+   "pos": "noun",
+   "es": "carta de presentación",
+   "def": "a short letter you send with your CV explaining why you want the job",
+   "ex": "Her {cover letter} explained exactly why she was a good fit."
+  },
+  {
+   "w": "suitable",
+   "pos": "adjective",
+   "es": "adecuado/a",
+   "def": "right or appropriate for a particular job or situation",
+   "ex": "I'm not sure I'm {suitable} for such a technical role."
+  },
+  {
+   "w": "to make your mark",
+   "pos": "verb",
+   "es": "dejar huella / destacar",
+   "def": "to do something that gets you noticed or shows what you can do",
+   "ex": "She wanted to {make her mark} early, so she volunteered for the hardest projects."
+  },
+  {
+   "w": "a position",
+   "pos": "noun",
+   "es": "puesto",
+   "def": "a particular job within an organisation",
+   "ex": "It was a senior {position}, so the advert asked for three years' experience."
+  },
+  {
+   "w": "relevant experience",
+   "pos": "collocation",
+   "es": "experiencia relevante",
+   "def": "work or skills that are directly useful for a particular job",
+   "ex": "Do you have any {relevant experience} for this kind of work?"
+  },
+  {
+   "w": "to put yourself forward",
+   "pos": "phrasal verb",
+   "es": "presentarse / ofrecerse (como candidato)",
+   "def": "to volunteer or apply for something, especially a job",
+   "ex": "It can feel daunting to {put yourself forward} for a senior role."
+  },
+  {
+   "w": "competitive",
+   "pos": "adjective",
+   "es": "competitivo (difícil de conseguir / bien pagado)",
+   "def": "hard to get because many people want it; also describes good pay",
+   "ex": "The salary is {competitive}, and so is the number of applicants."
+  }
+ ],
+ "phrases": []
+}

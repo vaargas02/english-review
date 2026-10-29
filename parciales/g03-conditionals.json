@@ -1,0 +1,167 @@
+[
+ {
+  "id": "g-cond-001",
+  "enunciado": "“If it ___ tomorrow, I will stay home.”",
+  "opciones": [
+   "rains",
+   "will rain",
+   "rained",
+   "would rain"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *If it rains tomorrow, I will stay home.*\n\nFirst conditional: if + present simple, will + verb. Real future possibility.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-002",
+  "enunciado": "“If I ___ you, I would accept that job offer.”",
+  "opciones": [
+   "were",
+   "am",
+   "will be",
+   "had been"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *If I were you, I would accept that job offer.*\n\nSecond conditional for advice: If I were you… We use were for all persons.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-003",
+  "enunciado": "“If I won the lottery, I ___ around the world.”",
+  "opciones": [
+   "would travel",
+   "will travel",
+   "travel",
+   "would have travelled"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *If I won the lottery, I would travel around the world.*\n\nSecond conditional: if + past simple, would + verb. Imaginary situation.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-004",
+  "enunciado": "“If we had left earlier, we ___ late.”",
+  "opciones": [
+   "wouldn't have been",
+   "wouldn't be",
+   "won't be",
+   "hadn't been"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *If we had left earlier, we wouldn't have been late.*\n\nThird conditional: if + past perfect, would have + past participle. A past that didn't happen.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-005",
+  "enunciado": "“If I ___ harder, I would have passed the exam.”",
+  "opciones": [
+   "had studied",
+   "studied",
+   "would study",
+   "have studied"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *If I had studied harder, I would have passed the exam.*\n\nThird conditional: the if-clause takes the past perfect (had + participle).",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-006",
+  "enunciado": "“___ you hurry, you will be late.”",
+  "opciones": [
+   "Unless",
+   "If",
+   "When",
+   "As soon as"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *Unless you hurry, you will be late.*\n\nUnless = if not. Unless you hurry = if you don't hurry.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-007",
+  "enunciado": "Which conditional expresses a regret about the past?",
+  "opciones": [
+   "Third",
+   "First",
+   "Second",
+   "Zero"
+  ],
+  "correcta": 0,
+  "explicacion": "Third conditional: regrets, criticism, missed opportunities.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-008",
+  "enunciado": "“What ___ you do if you had more free time?”",
+  "opciones": [
+   "would",
+   "will",
+   "did",
+   "had"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *What would you do if you had more free time?*\n\nSecond conditional question: What would you do if + past simple?",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-009",
+  "enunciado": "“If I had saved more money, I ___ bought a car.”",
+  "opciones": [
+   "could have",
+   "could",
+   "can have",
+   "would"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *If I had saved more money, I could have bought a car.*\n\nCould have / might have can replace would have in the third conditional.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-010",
+  "enunciado": "“If my friend visits, we ___ go to a concert.”",
+  "opciones": [
+   "might",
+   "would",
+   "had",
+   "might have"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *If my friend visits, we might go to a concert.*\n\nFirst conditional can use might instead of will for a less certain result.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ },
+ {
+  "id": "g-cond-011",
+  "enunciado": "“If I hadn't been nervous, I ___ better in the interview.”",
+  "opciones": [
+   "would have done",
+   "would do",
+   "will do",
+   "had done"
+  ],
+  "correcta": 0,
+  "explicacion": "✔ *If I hadn't been nervous, I would have done better in the interview.*\n\nThird conditional, negative if-clause: if + hadn't + participle, would have + participle.",
+  "tema": "Grammar",
+  "subtema": "Conditionals",
+  "teoria": "g-conditionals"
+ }
+]

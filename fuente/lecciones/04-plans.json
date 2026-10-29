@@ -1,0 +1,66 @@
+{
+ "n": 4,
+ "slug": "plans",
+ "lesson": "Making Plans with Friends",
+ "type": "Speaking",
+ "skill": "Making a polite complaint",
+ "words": [
+  {
+   "w": "to sort something out",
+   "pos": "verb phrase",
+   "es": "solucionar / arreglar",
+   "def": "to deal with a problem and find a solution",
+   "ex": "I've been trying to {sort out} the booking all morning."
+  },
+  {
+   "w": "to let someone down",
+   "pos": "phrasal verb",
+   "es": "decepcionar / fallar a alguien",
+   "def": "to disappoint someone by not doing what you promised",
+   "ex": "The venue {let us down} at the last minute."
+  },
+  {
+   "w": "unreliable",
+   "pos": "adjective",
+   "es": "poco fiable",
+   "def": "cannot be trusted to do what is expected",
+   "ex": "The booking system has been really {unreliable} lately."
+  },
+  {
+   "w": "a hassle",
+   "pos": "noun",
+   "es": "un fastidio / un lío",
+   "def": "something annoying that causes extra trouble or effort",
+   "ex": "Having to rearrange everything at the last minute was a real {hassle}."
+  },
+  {
+   "w": "to make alternative arrangements",
+   "pos": "verb phrase",
+   "es": "buscar otra alternativa / organizar un plan B",
+   "def": "to organise a different plan when the first one fails",
+   "ex": "We had to {make alternative arrangements} at very short notice."
+  },
+  {
+   "w": "fully booked",
+   "pos": "adjective",
+   "es": "completo (sin plazas)",
+   "def": "when all spaces or seats have already been taken",
+   "ex": "I'm afraid we're {fully booked} that evening."
+  },
+  {
+   "w": "a booking fee",
+   "pos": "noun",
+   "es": "gastos de reserva",
+   "def": "an extra amount you pay when you reserve something, on top of the price",
+   "ex": "There's a {booking fee} of two pounds if you buy online."
+  },
+  {
+   "w": "at short notice",
+   "pos": "expression",
+   "es": "con poca antelación",
+   "def": "with very little warning or time to prepare",
+   "ex": "They cancelled the reservation {at very short notice}."
+  }
+ ],
+ "phrases": []
+}

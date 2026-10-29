@@ -1,0 +1,182 @@
+[
+ {
+  "id": "v-music-musician-d",
+  "enunciado": "Which word or phrase means: “a person who plays or writes music”?",
+  "opciones": [
+   "a musician",
+   "a band",
+   "an album",
+   "not at all"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**a musician** (noun) = músico/a. A person who plays or writes music.\n\n*She's the **musician** who writes all her songs.*"
+ },
+ {
+  "id": "v-music-musician-g",
+  "enunciado": "Complete the sentence (the form may change): “She's the _____ who writes all her songs.”",
+  "opciones": [
+   "a musician",
+   "a band",
+   "an album",
+   "not at all"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**a musician** (noun) = músico/a. A person who plays or writes music.\n\n*She's the **musician** who writes all her songs.*"
+ },
+ {
+  "id": "v-music-album-d",
+  "enunciado": "Which word or phrase means: “a collection of songs released together”?",
+  "opciones": [
+   "an album",
+   "a band",
+   "a musician",
+   "a lot more (than)"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**an album** (noun) = álbum / disco. A collection of songs released together.\n\n*Do you like her new **album**?*"
+ },
+ {
+  "id": "v-music-album-g",
+  "enunciado": "Complete the sentence (the form may change): “Do you like her new _____?”",
+  "opciones": [
+   "an album",
+   "a band",
+   "a musician",
+   "a lot more (than)"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**an album** (noun) = álbum / disco. A collection of songs released together.\n\n*Do you like her new **album**?*"
+ },
+ {
+  "id": "v-music-band-d",
+  "enunciado": "Which word or phrase means: “a group of people who play music together”?",
+  "opciones": [
+   "a band",
+   "an album",
+   "a musician",
+   "it depends (on)"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**a band** (noun) = grupo / banda. A group of people who play music together.\n\n*He's a friend who plays in a **band**.*"
+ },
+ {
+  "id": "v-music-band-g",
+  "enunciado": "Complete the sentence (the form may change): “He's a friend who plays in a _____.”",
+  "opciones": [
+   "a band",
+   "an album",
+   "a musician",
+   "it depends (on)"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**a band** (noun) = grupo / banda. A group of people who play music together.\n\n*He's a friend who plays in a **band**.*"
+ },
+ {
+  "id": "v-music-lot-more-than-d",
+  "enunciado": "Which word or phrase means: “much more; used to compare how much you like things”?",
+  "opciones": [
+   "a lot more (than)",
+   "it depends (on)",
+   "not at all",
+   "a band"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**a lot more (than)** (expression) = mucho más (que). Much more; used to compare how much you like things.\n\n*I like their old style **a lot more** than the new one.*"
+ },
+ {
+  "id": "v-music-lot-more-than-g",
+  "enunciado": "Complete the sentence (the form may change): “I like their old style _____ than the new one.”",
+  "opciones": [
+   "a lot more (than)",
+   "it depends (on)",
+   "not at all",
+   "a band"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**a lot more (than)** (expression) = mucho más (que). Much more; used to compare how much you like things.\n\n*I like their old style **a lot more** than the new one.*"
+ },
+ {
+  "id": "v-music-not-at-all-d",
+  "enunciado": "Which word or phrase means: “a strong 'no'; zero”?",
+  "opciones": [
+   "not at all",
+   "it depends (on)",
+   "a lot more (than)",
+   "a band"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**not at all** (expression) = para nada / en absoluto. A strong 'no'; zero.\n\n*Do you like it? **Not at all**! Sorry, it's not for me.*"
+ },
+ {
+  "id": "v-music-not-at-all-g",
+  "enunciado": "Complete the sentence (the form may change): “Do you like it? _____! Sorry, it's not for me.”",
+  "opciones": [
+   "not at all",
+   "it depends (on)",
+   "a lot more (than)",
+   "a band"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**not at all** (expression) = para nada / en absoluto. A strong 'no'; zero.\n\n*Do you like it? **Not at all**! Sorry, it's not for me.*"
+ },
+ {
+  "id": "v-music-it-depends-on-d",
+  "enunciado": "Which word or phrase means: “the answer changes according to the situation”?",
+  "opciones": [
+   "it depends (on)",
+   "not at all",
+   "a lot more (than)",
+   "an album"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**it depends (on)** (expression) = depende (de). The answer changes according to the situation.\n\n*Music when I work? **It depends** on the day.*"
+ },
+ {
+  "id": "v-music-it-depends-on-g",
+  "enunciado": "Complete the sentence (the form may change): “Music when I work? _____ on the day.”",
+  "opciones": [
+   "it depends (on)",
+   "not at all",
+   "a lot more (than)",
+   "an album"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "The kind of music I love",
+  "teoria": "v-music",
+  "explicacion": "**it depends (on)** (expression) = depende (de). The answer changes according to the situation.\n\n*Music when I work? **It depends** on the day.*"
+ }
+]

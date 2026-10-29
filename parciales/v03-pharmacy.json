@@ -1,0 +1,242 @@
+[
+ {
+  "id": "v-pharmacy-warning-sign-d",
+  "enunciado": "Which word or phrase means: “something you notice that tells you something might be wrong”?",
+  "opciones": [
+   "a warning sign",
+   "a flare-up",
+   "a doctor's note",
+   "a remedy"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**a warning sign** (noun) = señal de alarma. Something you notice that tells you something might be wrong.\n\n*One of the early **warning signs** is a high temperature.*"
+ },
+ {
+  "id": "v-pharmacy-warning-sign-g",
+  "enunciado": "Complete the sentence (the form may change): “One of the early _____ is a high temperature.”",
+  "opciones": [
+   "a warning sign",
+   "a flare-up",
+   "a doctor's note",
+   "a remedy"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**a warning sign** (noun) = señal de alarma. Something you notice that tells you something might be wrong.\n\n*One of the early **warning signs** is a high temperature.*"
+ },
+ {
+  "id": "v-pharmacy-flare-up-d",
+  "enunciado": "Which word or phrase means: “a sudden return or worsening of a symptom or condition”?",
+  "opciones": [
+   "a flare-up",
+   "a remedy",
+   "a doctor's note",
+   "a warning sign"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**a flare-up** (noun) = brote / reagudización. A sudden return or worsening of a symptom or condition.\n\n*My skin gets a **flare-up** every time I use that soap.*"
+ },
+ {
+  "id": "v-pharmacy-flare-up-g",
+  "enunciado": "Complete the sentence (the form may change): “My skin gets a _____ every time I use that soap.”",
+  "opciones": [
+   "a flare-up",
+   "a remedy",
+   "a doctor's note",
+   "a warning sign"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**a flare-up** (noun) = brote / reagudización. A sudden return or worsening of a symptom or condition.\n\n*My skin gets a **flare-up** every time I use that soap.*"
+ },
+ {
+  "id": "v-pharmacy-remedy-d",
+  "enunciado": "Which word or phrase means: “something that treats or cures a problem”?",
+  "opciones": [
+   "a remedy",
+   "a warning sign",
+   "a flare-up",
+   "a doctor's note"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**a remedy** (noun) = remedio. Something that treats or cures a problem.\n\n*Honey and lemon is a popular home **remedy** for a sore throat.*"
+ },
+ {
+  "id": "v-pharmacy-remedy-g",
+  "enunciado": "Complete the sentence (the form may change): “Honey and lemon is a popular home _____ for a sore throat.”",
+  "opciones": [
+   "a remedy",
+   "a warning sign",
+   "a flare-up",
+   "a doctor's note"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**a remedy** (noun) = remedio. Something that treats or cures a problem.\n\n*Honey and lemon is a popular home **remedy** for a sore throat.*"
+ },
+ {
+  "id": "v-pharmacy-doctor-s-note-d",
+  "enunciado": "Which word or phrase means: “an official document from a doctor that lets you get a specific medicine”?",
+  "opciones": [
+   "a doctor's note",
+   "a flare-up",
+   "a warning sign",
+   "a remedy"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**a doctor's note** (noun) = receta / justificante médico. An official document from a doctor that lets you get a specific medicine.\n\n*You'll need a **doctor's note** to get that one: it's not available over the counter.*"
+ },
+ {
+  "id": "v-pharmacy-doctor-s-note-g",
+  "enunciado": "Complete the sentence (the form may change): “You'll need a _____ to get that one: it's not available over the counter.”",
+  "opciones": [
+   "a doctor's note",
+   "a flare-up",
+   "a warning sign",
+   "a remedy"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**a doctor's note** (noun) = receta / justificante médico. An official document from a doctor that lets you get a specific medicine.\n\n*You'll need a **doctor's note** to get that one: it's not available over the counter.*"
+ },
+ {
+  "id": "v-pharmacy-effective-d",
+  "enunciado": "Which word or phrase means: “works well and produces the result you want”?",
+  "opciones": [
+   "effective",
+   "a remedy",
+   "a doctor's note",
+   "a warning sign"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**effective** (adjective) = eficaz. Works well and produces the result you want.\n\n*This spray is really **effective** for a blocked nose.*"
+ },
+ {
+  "id": "v-pharmacy-effective-g",
+  "enunciado": "Complete the sentence (the form may change): “This spray is really _____ for a blocked nose.”",
+  "opciones": [
+   "effective",
+   "a remedy",
+   "a doctor's note",
+   "a warning sign"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**effective** (adjective) = eficaz. Works well and produces the result you want.\n\n*This spray is really **effective** for a blocked nose.*"
+ },
+ {
+  "id": "v-pharmacy-ease-up-d",
+  "enunciado": "Which word or phrase means: “to become less painful or less strong”?",
+  "opciones": [
+   "to ease up",
+   "to stay away from",
+   "a warning sign",
+   "a doctor's note"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**to ease up** (phrasal verb) = aliviarse / remitir. To become less painful or less strong.\n\n*The headache should **ease up** after a couple of hours.*"
+ },
+ {
+  "id": "v-pharmacy-ease-up-g",
+  "enunciado": "Complete the sentence (the form may change): “The headache should _____ after a couple of hours.”",
+  "opciones": [
+   "to ease up",
+   "to stay away from",
+   "a warning sign",
+   "a doctor's note"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**to ease up** (phrasal verb) = aliviarse / remitir. To become less painful or less strong.\n\n*The headache should **ease up** after a couple of hours.*"
+ },
+ {
+  "id": "v-pharmacy-stay-away-from-d",
+  "enunciado": "Which word or phrase means: “to not use or go near something because it could be harmful”?",
+  "opciones": [
+   "to stay away from",
+   "a doctor's note",
+   "a warning sign",
+   "to ease up"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**to stay away from** (verb) = evitar / mantenerse alejado de. To not use or go near something because it could be harmful.\n\n*You should **stay away from** alcohol while you're taking this.*"
+ },
+ {
+  "id": "v-pharmacy-stay-away-from-g",
+  "enunciado": "Complete the sentence (the form may change): “You should _____ alcohol while you're taking this.”",
+  "opciones": [
+   "to stay away from",
+   "a doctor's note",
+   "a warning sign",
+   "to ease up"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**to stay away from** (verb) = evitar / mantenerse alejado de. To not use or go near something because it could be harmful.\n\n*You should **stay away from** alcohol while you're taking this.*"
+ },
+ {
+  "id": "v-pharmacy-over-the-counter-d",
+  "enunciado": "Which word or phrase means: “(medicine) that you can buy without a prescription”?",
+  "opciones": [
+   "over the counter",
+   "a doctor's note",
+   "to ease up",
+   "a flare-up"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**over the counter** (collocation) = sin receta. (medicine) that you can buy without a prescription.\n\n*Most cold remedies are available **over the counter**.*"
+ },
+ {
+  "id": "v-pharmacy-over-the-counter-g",
+  "enunciado": "Complete the sentence (the form may change): “Most cold remedies are available _____.”",
+  "opciones": [
+   "over the counter",
+   "a doctor's note",
+   "to ease up",
+   "a flare-up"
+  ],
+  "correcta": 0,
+  "tema": "Vocabulary",
+  "subtema": "Buying Medicine at the Pharmacy",
+  "teoria": "v-pharmacy",
+  "explicacion": "**over the counter** (collocation) = sin receta. (medicine) that you can buy without a prescription.\n\n*Most cold remedies are available **over the counter**.*"
+ }
+]

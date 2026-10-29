@@ -1,0 +1,66 @@
+{
+ "n": 10,
+ "slug": "phone-calls",
+ "lesson": "Making Phone Calls",
+ "type": "Speaking",
+ "skill": "Reporting and summarising phone calls",
+ "words": [
+  {
+   "w": "to verify",
+   "pos": "verb",
+   "es": "verificar / confirmar",
+   "def": "to check that information is correct or true",
+   "ex": "Could you {verify} the time of the appointment before we finish the call?"
+  },
+  {
+   "w": "to get through",
+   "pos": "phrasal verb",
+   "es": "conseguir comunicar (por teléfono)",
+   "def": "to succeed in reaching someone by phone",
+   "ex": "I tried three times before I {got through}."
+  },
+  {
+   "w": "to pass on",
+   "pos": "phrasal verb",
+   "es": "transmitir / dar un recado",
+   "def": "to give information to someone else",
+   "ex": "Can you {pass on} the message to your manager?"
+  },
+  {
+   "w": "to put through",
+   "pos": "phrasal verb",
+   "es": "pasar / poner con (una llamada)",
+   "def": "to connect a caller to another person",
+   "ex": "The assistant {put me through} to the right department."
+  },
+  {
+   "w": "unclear",
+   "pos": "adjective",
+   "es": "poco claro",
+   "def": "difficult to understand, hear or follow",
+   "ex": "Her instructions were {unclear} over the phone."
+  },
+  {
+   "w": "a follow-up",
+   "pos": "noun",
+   "es": "seguimiento",
+   "def": "a further action or contact after an earlier one",
+   "ex": "He sent a {follow-up} email after the call."
+  },
+  {
+   "w": "according to",
+   "pos": "expression",
+   "es": "según",
+   "def": "used to introduce information from another source",
+   "ex": "{According to} the caller, the meeting is on Friday."
+  },
+  {
+   "w": "apparently",
+   "pos": "adverb",
+   "es": "al parecer / por lo visto",
+   "def": "used when reporting what you heard from someone else",
+   "ex": "{Apparently}, the delivery was delayed by two days."
+  }
+ ],
+ "phrases": []
+}

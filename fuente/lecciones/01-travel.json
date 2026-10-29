@@ -1,0 +1,66 @@
+{
+ "n": 1,
+ "slug": "travel",
+ "lesson": "Travel",
+ "type": "Speaking",
+ "skill": "Giving a presentation about places you have visited",
+ "words": [
+  {
+   "w": "itinerary",
+   "pos": "noun",
+   "es": "itinerario",
+   "def": "a planned route or journey",
+   "ex": "We had a detailed {itinerary} for our trip, covering all the major attractions."
+  },
+  {
+   "w": "backpacking",
+   "pos": "noun",
+   "es": "viajar de mochilero",
+   "def": "travelling or hiking with your belongings in a backpack, often on a low budget",
+   "ex": "He went {backpacking} across Europe last summer on a limited budget."
+  },
+  {
+   "w": "excursion",
+   "pos": "noun",
+   "es": "excursión",
+   "def": "a short trip, especially one taken for pleasure",
+   "ex": "Our cruise package includes several {excursions} to nearby islands."
+  },
+  {
+   "w": "landmark",
+   "pos": "noun",
+   "es": "lugar emblemático / punto de referencia",
+   "def": "a building or feature that is easily seen and recognised and helps you know where you are",
+   "ex": "The Eiffel Tower is an iconic {landmark} in Paris."
+  },
+  {
+   "w": "souvenir",
+   "pos": "noun",
+   "es": "recuerdo (objeto)",
+   "def": "a thing you keep as a reminder of a place or event",
+   "ex": "I bought a small statue as a {souvenir} from my trip to Egypt."
+  },
+  {
+   "w": "tourist",
+   "pos": "noun",
+   "es": "turista",
+   "def": "a person who is travelling or visiting a place for pleasure",
+   "ex": "The city is crowded with {tourists} during the summer season."
+  },
+  {
+   "w": "cuisine",
+   "pos": "noun",
+   "es": "cocina (gastronomía)",
+   "def": "a style of cooking typical of a country or region",
+   "ex": "Italian {cuisine} is famous for its fresh ingredients and bold flavours."
+  },
+  {
+   "w": "hostel",
+   "pos": "noun",
+   "es": "albergue",
+   "def": "a cheap place to stay, often used by young people travelling on a budget",
+   "ex": "We stayed in a {hostel} in the city centre, which was affordable and convenient."
+  }
+ ],
+ "phrases": []
+}
